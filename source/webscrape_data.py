@@ -1,4 +1,4 @@
-## Getting and Cleaning the Book Data ##
+## Getting the Book Data ##
 
 ## This uses webscrapping to access the data
 
@@ -17,7 +17,7 @@ for i in range(0, 4):
     print(rows)
 
     with open('data/top_books{i}.csv'.format(i=i), 'w') as file:
-        file.write('Book, Author(s), Original Language, First Published, Approximate Sales, Genre')
+        file.write('Book,Author,Original_Language,First_Published,Approximate_Sales,Genre_1,Genre_2,Genre_3,Genre_4,Genre_5,Genre_6')
         for row in rows:
             cells = row.find_all('td')
             row_contents = []
