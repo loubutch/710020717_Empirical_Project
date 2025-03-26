@@ -16,10 +16,18 @@ This repository is structured as follows:
     ├──top_books0.csv
     ├──top_books1.csv
     ├──top_books2.csv
-    └──top_books3.csv
+    ├──top_books3.csv
+    ├──top_books.csv
+    ├──top_series4.csv
+    ├──top_series5.csv
+    ├──top_series6.csv
+    ├──top_series7.csv
+    ├──top_series8.csv
+    └──top_series.csv
 ├── source/
     ├──webscrape_data.py
-    └──data_set_up.py
+    ├──data_set_up.py
+    └──summary_and_visualisations.ipynb
 ├── results/ 
 
 

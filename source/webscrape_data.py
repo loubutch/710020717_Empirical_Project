@@ -26,3 +26,22 @@ for i in range(0, 4):
                 row_contents.append(cell.text.strip())
             print(row_contents)    
             file.write(','.join(row_contents) + '\n')   
+
+
+for i in range(4, 9):
+    TAB = response.find_all('table', class_='wikitable sortable')[i]
+    print(TAB)
+
+    rows = TAB.find_all('tr')
+    print(rows)
+
+    with open('data/top_series{i}.csv'.format(i=i), 'w') as file:
+        file.write('Book_Series,Author,Original_Language,No_of_Installments,Years_of_Publication,Approximate_Sales,Genre_1,Genre_2')
+        for row in rows:
+            cells = row.find_all('td')
+            row_contents = []
+            for cell in cells:
+                # Write the contents of the cell to the file
+                row_contents.append(cell.text.strip())
+            print(row_contents)    
+            file.write(','.join(row_contents) + '\n')              
