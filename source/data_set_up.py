@@ -89,6 +89,90 @@ df_book['Approximate_Sales'] = df_book['Approximate_Sales'].map(int)
 df_book['First_Published'] = df_book['First_Published'].map(int)
 
 
+## Here I am making a combined genre column
+df_book["All_Genre"] = df_book[["Genre_1", "Genre_2", 
+                  "Genre_3", "Genre_4", "Genre_5"]].apply(lambda x: ','.join(x.dropna()), axis=1)
+
+
+
+## Here I am adding extra genre information to these with no genres based on main genres found on wikipedia
+df_book['All_Genre'] = np.where((df_book['Book'] == "Shōgun") 
+                                   | (df_book['Book'] ==  "Perfume (Das Parfum)") 
+                                   | (df_book['Book'] == "The Boy in the Striped Pyjamas" )
+                                   | (df_book['Book'] == "The Help" )
+                                   , "historical fiction", df_book["All_Genre"])
+df_book['All_Genre'] = np.where((df_book['Book'] == "The Horse Whisperer") 
+                                   | (df_book['Book'] ==  "The Grapes of Wrath") 
+                                   | (df_book['Book'] == "The Shadow of the Wind (La sombra del viento)" )
+                                   | (df_book['Book'] == "Interpreter of Maladies" )
+                                   | (df_book['Book'] == "Peyton Place") 
+                                   | (df_book['Book'] == "Norwegian Wood (ノルウェイの森)" )
+                                   | (df_book['Book'] == "The Plague (La Peste)" )
+                                   | (df_book['Book'] == "No Longer Human (人間失格)" )
+                                   | (df_book['Book'] == "Catch-22") 
+                                   | (df_book['Book'] == "The Lovely Bones" )
+                                   | (df_book['Book'] == "Santa Evita" )  
+                                   | (df_book['Book'] == "The Goal" )
+                                   | (df_book['Book'] == "Bridget Jones's Diary" )                                  
+                                   , "novel", df_book["All_Genre"])
+df_book['All_Genre'] = np.where((df_book['Book'] == "The Outsiders")                                  
+                                   , "coming-of-age", df_book["All_Genre"])
+df_book['All_Genre'] = np.where((df_book['Book'] == "Guess How Much I Love You") 
+                                   | (df_book['Book'] == "The Poky Little Puppy") 
+                                   | (df_book['Book'] == "Ronia, the Robber's Daughter"), 
+                                   "Children's fiction", df_book['All_Genre'] )
+df_book['All_Genre'] = np.where((df_book['Book'] == "Becoming") 
+                                   | (df_book['Book'] ==  "Tuesdays with Morrie") 
+                                   | (df_book['Book'] == "Long Walk to Freedom" )
+                                   | (df_book['Book'] == "Man's Search for Meaning (Ein Psychologe erlebt das Konzentrationslager)" )
+                                   | (df_book['Book'] == "Night (Un di Velt Hot Geshvign)") 
+                                   | (df_book['Book'] == "Angela's Ashes" )
+                                   | (df_book['Book'] == "The Story of My Experiments with Truth (સત્યના પ્રયોગો અથવા આત્મકથા)")                                 
+                                   , "Autobiographical", df_book["All_Genre"])
+df_book['All_Genre'] = np.where((df_book['Book'] == "God's Little Acre") 
+                                   | (df_book['Book'] == "Tobacco Road") 
+                                   , "gothic", df_book['All_Genre'] )
+df_book['All_Genre'] = np.where((df_book['Book'] == "A Wrinkle in Time")                                  
+                                   , "Science fiction", df_book["All_Genre"])
+df_book['All_Genre'] = np.where((df_book['Book'] == "The Old Man and the Sea")                                  
+                                   , "Fiction", df_book["All_Genre"])
+df_book['All_Genre'] = np.where((df_book['Book'] == "Life After Life") 
+                                   | (df_book['Book'] ==  "The Bermuda Triangle") 
+                                   | (df_book['Book'] == "Knowledge-value Revolution (知価革命)" )
+                                   | (df_book['Book'] == "Problems in China's Socialist Economy (中国社会主义经济问题研究)" )
+                                   | (df_book['Book'] == "The Dukan Diet") 
+                                   | (df_book['Book'] == "The Joy of Sex" )                               
+                                   , "Non-fiction", df_book["All_Genre"])
+df_book['All_Genre'] = np.where((df_book['Book'] == "Me Before You") 
+                                   | (df_book['Book'] == "The Front Runner"),
+                                   "romance", df_book['All_Genre'] )
+df_book['All_Genre'] = np.where((df_book['Book'] == "The Divine Comedy (La Divina Commedia)") 
+                                   | (df_book['Book'] == "The Prophet"), 
+                                   "poetry", df_book['All_Genre'] )
+df_book['All_Genre'] = np.where((df_book['Book'] == "Diana: Her True Story") 
+                                   | (df_book['Book'] == "Wild Swans"), 
+                                   "biographical", df_book['All_Genre'] )
+df_book['All_Genre'] = np.where((df_book['Book'] == "The Stranger (L'Étranger)") 
+                                   | (df_book['Book'] == "Confucius from the Heart (于丹《论语》心得)") 
+                                   | (df_book['Book'] == "Life of Pi"), 
+                                   "philosophical", df_book['All_Genre'] )
+df_book['All_Genre'] = np.where((df_book['Book'] == "Eye of the Needle")                                  
+                                   , "thriller", df_book["All_Genre"])
+df_book['All_Genre'] = np.where((df_book['Book'] == "The Total Woman") 
+                                   | (df_book['Book'] == "What Color Is Your Parachute?") 
+                                   | (df_book['Book'] == "The Subtle Art of Not Giving a Fuck"), 
+                                   "self-help", df_book['All_Genre'] )
+df_book['All_Genre'] = np.where((df_book['Book'] == "The Gospel According to Peanuts")                                  
+                                   , "comic", df_book["All_Genre"])
+df_book['All_Genre'] = np.where((df_book['Book'] == "Fahrenheit 451")                                  
+                                   , "dystopian", df_book["All_Genre"])
+
+## Here I am making an age category column
+df_book["Age_Category"] = np.where(df_book['All_Genre'].str.contains("children", case = False), "Children", "Adult" )
+df_book["Age_Category"] = np.where(df_book['All_Genre'].str.contains("Young adult", case = False, na=False), "Young Adult", df_book["Age_Category"])
+
+
+
 ## Here I am saving the cleaned dataset into one csv file
 df_book.to_csv('data/top_books.csv')
 
@@ -197,6 +281,10 @@ df_series['Approximate_Sales'] = df_series['Approximate_Sales'].map(int)
 df_series['First_Installment_Published'] = df_series['First_Installment_Published'].map(int)
 df_series['Last_Installment_Published'] = df_series['Last_Installment_Published'].map(int)
 df_series['No_of_Extras'] = df_series['No_of_Extras'].map(float)
+
+
+## Here I am making a combined genre column
+df_series["All_Genre"] = df_series[["Genre_1", "Genre_2"]].apply(lambda x: ','.join(x.dropna()), axis=1)
 
 
 ## Here I am saving the cleaned dataset into one csv file

@@ -1,167 +1,167 @@
-,Book,Author,Original_Language,First_Published,Approximate_Sales,Genre_1,Genre_2,Genre_3,Genre_4,Genre_5,Genre_6
-0,A Tale of Two Cities,Charles Dickens,English,1859,200000000,Historical fiction,,,,,
-1,The Little Prince (Le Petit Prince),Antoine de Saint-Exupéry,French,1943,200000000,Fantasy, children's fiction,,,,
-2,The Alchemist (O Alquimista),Paulo Coelho,Portuguese,1988,150000000,Fantasy,,,,,
-3,Harry Potter and the Philosopher's Stone,J. K. Rowling,English,1997,120000000,Fantasy, children's fiction,,,,
-4,And Then There Were None,Agatha Christie,English,1939,100000000,Mystery,,,,,
-5,Dream of the Red Chamber (紅樓夢),Cao Xueqin,Chinese,1791,100000000,Family saga,,,,,
-6,The Hobbit,J. R. R. Tolkien,English,1937,100000000,Fantasy, children's fiction,,,,
-7,Alice's Adventures in Wonderland,Lewis Carroll,English,1865,100000000,Fantasy, absurdist fiction,,,,
-1,She: A History of Adventure,H. Rider Haggard,English,1887,83000000,Adventure,,,,,
-2,The Da Vinci Code,Dan Brown,English,2003,80000000,Mystery thriller,,,,,
-3,Harry Potter and the Chamber of Secrets,J. K. Rowling,English,1998,77000000,Fantasy, children's fiction,,,,
-4,The Catcher in the Rye,J. D. Salinger,English,1951,65000000,Coming-of-age,,,,,
-5,The Bridges of Madison County,Robert James Waller,English,1992,60000000,Romance,,,,,
-6,One Hundred Years of Solitude (Cien años de soledad),Gabriel García Márquez,Spanish,1967,50000000,Magic realism,,,,,
-7,Lolita,Vladimir Nabokov,English,1955,50000000,Novel,,,,,
-8,Heidi,Johanna Spyri,German,1880,50000000,Children's fiction,,,,,
-9,The Common Sense Book of Baby and Child Care,Benjamin Spock,English,1946,50000000,Manual,,,,,
-10,Anne of Green Gables,Lucy Maud Montgomery,English,1908,50000000,Children's novel,,,,,
-11,Black Beauty,Anna Sewell,English,1877,50000000,Children's literature,,,,,
-12,The Name of the Rose (Il Nome della Rosa),Umberto Eco,Italian,1980,50000000,Historical novel, mystery,,,,
-13,The Eagle Has Landed,Jack Higgins,English,1975,50000000,War, thriller,,,,
-14,Watership Down,Richard Adams,English,1972,50000000,Children's fiction,,,,,
-15,The Hite Report,Shere Hite,English,1976,50000000,nonfiction,,,,,
-16,Charlotte's Web,E. B. White; illustrated by Garth Williams,English,1952,50000000,Children's fiction,,,,,
-17,The Ginger Man,J. P. Donleavy,English,1955,50000000,Novel,,,,,
-18,The Purpose Driven Life,Rick Warren,English,2002,50000000,Philosophical Manual,,,,,
-0,The Tale of Peter Rabbit,Beatrix Potter,English,1902,45000000,Children's literature,,,,,
-1,Jonathan Livingston Seagull,Richard Bach,English,1970,44000000,Novella, self-help,,,,
-2,The Very Hungry Caterpillar,Eric Carle,English,1969,43000000,Children's literature, picture book,,,,
-3,A Message to Garcia,Elbert Hubbard,English,1899,40000000,Essay/literature,,,,,
-4,To Kill a Mockingbird,Harper Lee,English,1960,40000000,Southern Gothic, Bildungsroman,,,,
-5,Flowers in the Attic,V. C. Andrews,English,1979,40000000,Gothic horror, family saga,,,,
-6,Cosmos,Carl Sagan,English,1980,40000000,Popular science, anthropology, astrophysics, cosmology, philosophy, history
-7,Sophie's World (Sofies verden),Jostein Gaarder,Norwegian,1991,40000000,Philosophical novel, Young adult,,,,
-8,Angels & Demons,Dan Brown,English,2000,39000000,mystery-thriller,,,,,
-9,Alcoholics Anonymous,William Griffith Wilson,English,1939,37000000,Self-help,,,,,
-10,Kane and Abel,Jeffrey Archer,English,1979,37000000,Novel,,,,,
-11,How the Steel Was Tempered (Как закалялась сталь),Nikolai Ostrovsky,Russian,1932,36400000,Socialist realist novel,,,,,
-12,War and Peace (Война и мир),Leo Tolstoy,Russian,1869,36000000,Historical novel,,,,,
-13,The Adventures of Pinocchio (Le avventure di Pinocchio),Carlo Collodi,Italian,1881,35000000,Fantasy, children's fiction,,,,
-14,The Diary of Anne Frank (Het Achterhuis),Anne Frank,Dutch,1947,35000000,Historical non-fiction, autobiography, memoir, bildungsroman / coming of age, Jewish literature,
-15,Your Erroneous Zones,Wayne Dyer,English,1976,35000000,Self-help,,,,,
-16,The Thorn Birds,Colleen McCullough,English,1977,33000000,Romantic family saga,,,,,
-17,The Kite Runner,Khaled Hosseini,English,2003,31500000,Bildungsroman, historical fiction,,,,
-18,Valley of the Dolls,Jacqueline Susann,English,1966,31000000,Novel,,,,,
-19,How to Win Friends and Influence People,Dale Carnegie,English,1936,30000000,Self-help,,,,,
-20,The Great Gatsby,F. Scott Fitzgerald,English,1925,30000000,Novel, tragedy,,,,
-21,Gone with the Wind,Margaret Mitchell,English,1936,30000000,Historical fiction,,,,,
-22,Rebecca,Daphne du Maurier,English,1938,30000000,Gothic novel,,,,,
-23,The Revolt of Mamie Stover,William Bradford Huie,English,1951,30000000,Fiction,,,,,
-24,The Girl with the Dragon Tattoo (Män som hatar kvinnor),Stieg Larsson,Swedish,2005,30000000,Fiction,,,,,
-25,The Lost Symbol,Dan Brown,English,2009,30000000,Fiction,,,,,
-26,The Hunger Games,Suzanne Collins,English,2008,29000000,Young adult fiction,,,,,
-27,James and the Giant Peach,Roald Dahl,English,1961,28000000,Children's novel,,,,,
-28,The Young Guard (Молодая гвардия),Alexander Alexandrovich Fadeyev,Russian,1945,26000000,Young adult historical novel,,,,,
-29,Who Moved My Cheese?,Spencer Johnson,English,1998,29000000,Self-help, motivational, business fable, psychology, leadership, parable
-30,A Brief History of Time,Stephen Hawking,English,1988,25000000,Popular science,,,,,
-31,Paul et Virginie,Jacques-Henri Bernardin de Saint-Pierre,French,1788,25000000,Novel,,,,,
-32,Lust for Life,Irving Stone,English,1934,25000000,Biographical novel,,,,,
-33,The Wind in the Willows,Kenneth Grahame,English,1908,25000000,Children's literature,,,,,
-34,The 7 Habits of Highly Effective People,Stephen R. Covey,English,1989,25000000,Self-help,,,,,
-35,Totto-Chan: The Little Girl at the Window (窓ぎわのトットちゃん),Tetsuko Kuroyanagi,Japanese,1981,25000000,Autobiographical novel,,,,,
-36,Virgin Soil Upturned (Поднятая целина),Mikhail Sholokhov,Russian,1935,24000000,Novel,,,,,
-37,The Celestine Prophecy,James Redfield,English,1993,23000000,New-age spiritual novel,,,,,
-38,The Fault in Our Stars,John Green,English,2012,23000000,Young adult romantic novel,,,,,
-39,The Girl on the Train,Paula Hawkins,English,2015,23000000,Thriller,,,,,
-40,The Shack,William P. Young,English,2007,22500000,Novel,,,,,
-41,Uncle Styopa (Дядя Стёпа),Sergey Mikhalkov,Russian,1936,21000000,Children's Literature, picture book,,,,
-42,The Godfather,Mario Puzo,English,1969,21000000,Crime novel,,,,,
-43,Love Story,Erich Segal,English,1970,21000000,Romance novel,,,,,
-44,Catching Fire,Suzanne Collins,English,2009,21000000,Young adult novel, adventure, dystopian, science fiction,,
-45,Mockingjay,Suzanne Collins,English,2010,20000000,Young Adult novel, adventure, war, science fiction, action thriller,
-46,Kitchen (キッチン),Banana Yoshimoto,Japanese,1988,20000000,Japanese novel,,,,,
-47,Andromeda Nebula (Туманность Андромеды),Ivan Yefremov,Russian,1957,20000000,Science fiction novel,,,,,
-48,Gone Girl,Gillian Flynn,English,2012,20000000,Crime thriller novel,,,,,
-49,The Bermuda Triangle,Charles Berlitz,English,1974,20000000,,,,,,
-50,Things Fall Apart,Chinua Achebe,English,1958,20000000,Novel,,,,,
-51,Wolf Totem (狼图腾),Jiang Rong,Chinese,2004,20000000,Semi-autobiographical novel,,,,,
-52,The Happy Hooker: My Own Story,Xaviera Hollander,English,1971,20000000,Memoir,,,,,
-53,Jaws,Peter Benchley,English,1974,20000000,Thriller,,,,,
-54,Love You Forever,Robert Munsch,English,1986,20000000,Children's literature, picture book, fiction,,,
-55,The Women's Room,Marilyn French,English,1977,20000000,Feminist novel,,,,,
-56,What to Expect When You're Expecting,Arlene Eisenberg and Heidi Murkoff,English,1984,20000000,Pregnancy guide,,,,,
-57,Adventures of Huckleberry Finn,Mark Twain,English,1885,20000000,Picaresque novel, Bildungsroman, satire, Robinsonade,,
-59,Pride and Prejudice,Jane Austen,English,1813,20000000,Classic regency novel, romance,,,,
-60,Kon-Tiki: Across the Pacific in a Raft (Kon-Tiki ekspedisjonen),Thor Heyerdahl,Norwegian,1950,20000000,Travel literature,,,,,
-61,The Good Soldier Švejk (Osudy dobrého vojáka Švejka za světové války),Jaroslav Hašek,Czech,1923,20000000,Unfinished satirical dark comedy novel,,,,,
-62,Where the Wild Things Are,Maurice Sendak,English,1963,20000000,Children's picture book,,,,,
-63,The Power of Positive Thinking,Norman Vincent Peale,English,1952,20000000,Self-help,,,,,
-64,The Secret,Rhonda Byrne,English,2006,20000000,Self-help,,,,,
-65,Fear of Flying,Erica Jong,English,1973,20000000,Romantic novel,,,,,
-66,Dune,Frank Herbert,English,1965,20000000,Science fiction novel,,,,,
-67,Charlie and the Chocolate Factory,Roald Dahl,English,1964,20000000,Children's fantasy novel,,,,,
-68,The Naked Ape,Desmond Morris,English,1968,20000000,Social Science, Anthropology, Psychology,,,
-69,Kokoro (こゝろ),Natsume Sōseki,Japanese,1914,20000000,Novel,,,,,
-0,Where the Crawdads Sing,Delia Owens,English,2018,18000000,Coming-of-age, murder mystery,,,,
-1,Follow Your Heart (Va' dove ti porta il cuore),Susanna Tamaro,Italian,1994,18000000,Sentimental, epistolary novel,,,,
-2,Matilda,Roald Dahl,English,1988,17000000,Children's literature,,,,,
-3,The Book Thief,Markus Zusak,English,2005,16000000,Young adult fiction,,,,,
-4,The Horse Whisperer,Nicholas Evans,English,1995,16000000,,,,,,
-5,Goodnight Moon,Margaret Wise Brown,English,1947,16000000,Children's literature,,,,,
-6,The Neverending Story (Die unendliche Geschichte),Michael Ende,German,1979,16000000,Children's literature,,,,,
-7,All the Light We Cannot See,Anthony Doerr,English,2014,15300000,Historical fiction, war novel,,,,
-8,Fifty Shades of Grey,E. L. James,English,2011,15200000,Erotica,,,,,
-9,The Outsiders,S. E. Hinton,English,1967,15000000,,,,,,
-10,Guess How Much I Love You,Sam McBratney,English,1994,15000000,,,,,,
-11,Shōgun,James Clavell,English,1975,15000000,,,,,,
-12,The Poky Little Puppy,Janette Sebring Lowrey,English,1942,15000000,,,,,,
-13,The Pillars of the Earth,Ken Follett,English,1989,15000000,Historical fiction,,,,,
-14,Perfume (Das Parfum),Patrick Süskind,German,1985,15000000,,,,,,
-15,The Grapes of Wrath,John Steinbeck,English,1939,15000000,,,,,,
-16,The Shadow of the Wind (La sombra del viento),Carlos Ruiz Zafón,Spanish,2001,15000000,,,,,,
-17,Interpreter of Maladies,Jhumpa Lahiri,English,2000,15000000,,,,,,
-18,Becoming,Michelle Obama,English,2018,14000000,,,,,,
-19,The Hitchhiker's Guide to the Galaxy,Douglas Adams,English,1979,14000000,Science fiction,,,,,
-20,Tuesdays with Morrie,Mitch Albom,English,1997,14000000,,,,,,
-21,God's Little Acre,Erskine Caldwell,English,1933,14000000,,,,,,
-22,A Wrinkle in Time,Madeleine L'Engle,English,1962,14000000,,,,,,
-23,Long Walk to Freedom,Nelson Mandela,English,1994,14000000,,,,,,
-24,The Old Man and the Sea,Ernest Hemingway,English,1952,13000000,,,,,,
-25,Life After Life,Raymond Moody,English,1975,13000000,,,,,,
-26,Momo,Michael Ende,German,1973,13000000,Children's literature,,,,,
-27,Peyton Place,Grace Metalious,English,1956,12100000,,,,,,
-28,The Giver,Lois Lowry,English,1993,12000000,Dystopian fiction,,,,,
-29,Me Before You,Jojo Moyes,English,2012,12000000,,,,,,
-30,Norwegian Wood (ノルウェイの森),Haruki Murakami,Japanese,1987,12000000,,,,,,
-31,The Plague (La Peste),Albert Camus,French,1947,12000000,,,,,,
-32,No Longer Human (人間失格),Osamu Dazai,Japanese,1948,12000000,,,,,,
-33,Man's Search for Meaning (Ein Psychologe erlebt das Konzentrationslager),Viktor Frankl,German,1946,12000000,,,,,,
-34,The Divine Comedy (La Divina Commedia),Dante Alighieri,Italian,1304,11500000,,,,,,
-35,The Prophet,Kahlil Gibran,English,1923,11000000,,,,,,
-36,The Boy in the Striped Pyjamas,John Boyne,English,2006,11000000,,,,,,
-37,The Exorcist,William Peter Blatty,English,1971,11000000,Horror,,,,,
-38,The Gruffalo,Julia Donaldson,English,1999,10500000,Children's literature, picture book,,,,
-39,Fifty Shades Darker,E. L. James,English,2012,10400000,Erotica,,,,,
-40,Tobacco Road,Erskine Caldwell,English,1932,10000000,,,,,,
-42,The Cat in the Hat,Dr. Seuss,English,1957,10500000,Children's literature, picture book,,,,
-43,Diana: Her True Story,Andrew Morton,English,1992,10000000,,,,,,
-44,The Help,Kathryn Stockett,English,2009,10000000,,,,,,
-45,Catch-22,Joseph Heller,English,1961,10000000,,,,,,
-46,The Stranger (L'Étranger),Albert Camus,French,1942,10000000,,,,,,
-47,Eye of the Needle,Ken Follett,English,1978,10000000,,,,,,
-48,The Lovely Bones,Alice Sebold,English,2002,10000000,,,,,,
-49,Wild Swans,Jung Chang,English,1992,10000000,,,,,,
-50,Santa Evita,Tomás Eloy Martínez,Spanish,1995,10000000,,,,,,
-51,Night (Un di Velt Hot Geshvign),Elie Wiesel,Yiddish,1958,10000000,,,,,,
-52,Confucius from the Heart (于丹《论语》心得),Yu Dan,Chinese,2006,10000000,,,,,,
-53,The Total Woman,Marabel Morgan,English,1974,10000000,,,,,,
-54,Knowledge-value Revolution (知価革命),Taichi Sakaiya,Japanese,1985,10000000,,,,,,
-55,Problems in China's Socialist Economy (中国社会主义经济问题研究),Xue Muqiao,Chinese,1979,10000000,,,,,,
-56,What Color Is Your Parachute?,Richard Nelson Bolles,English,1970,10000000,,,,,,
-57,The Dukan Diet,Pierre Dukan,French,2000,10000000,,,,,,
-58,The Joy of Sex,Alex Comfort,English,1972,10000000,,,,,,
-59,The Gospel According to Peanuts,Robert L. Short,English,1965,10000000,,,,,,
-60,The Subtle Art of Not Giving a Fuck,Mark Manson,English,2016,10000000,,,,,,
-61,Life of Pi,Yann Martel,English,2001,10000000,,,,,,
-62,The Front Runner,Patricia Nell Warren,English,1974,10000000,,,,,,
-63,The Goal,Eliyahu M. Goldratt,English,1984,10000000,,,,,,
-64,Fahrenheit 451,Ray Bradbury,English,1953,10000000,,,,,,
-65,Angela's Ashes,Frank McCourt,English,1996,10000000,,,,,,
-66,The Story of My Experiments with Truth (સત્યના પ્રયોગો અથવા આત્મકથા),Mohandas Karamchand Gandhi,Gujarati,1925,10000000,,,,,,
-67,Bridget Jones's Diary,Helen Fielding,English,1996,10000000,,,,,,
-68,It Ends with Us,Colleen Hoover,English,2016,10000000,Romance, Fiction,,,,
-0,"The Lion, the Witch and the Wardrobe",C.S. Lewis,English,1950,85000000,Fantasy, children's fiction,,,,
-58,"The Secret Diary of Adrian Mole, Aged 13¾",Sue Townsend,English,1982,20000000,Young adult novel,,,,,
-41,"Ronia, the Robber's Daughter",Astrid Lindgren,Swedish,1981,10000000,,,,,,
+,Book,Author,Original_Language,First_Published,Approximate_Sales,Genre_1,Genre_2,Genre_3,Genre_4,Genre_5,Genre_6,All_Genre,Age_Category
+0,A Tale of Two Cities,Charles Dickens,English,1859,200000000,Historical fiction,,,,,,Historical fiction,Adult
+1,The Little Prince (Le Petit Prince),Antoine de Saint-Exupéry,French,1943,200000000,Fantasy, children's fiction,,,,,"Fantasy, children's fiction",Children
+2,The Alchemist (O Alquimista),Paulo Coelho,Portuguese,1988,150000000,Fantasy,,,,,,Fantasy,Adult
+3,Harry Potter and the Philosopher's Stone,J. K. Rowling,English,1997,120000000,Fantasy, children's fiction,,,,,"Fantasy, children's fiction",Children
+4,And Then There Were None,Agatha Christie,English,1939,100000000,Mystery,,,,,,Mystery,Adult
+5,Dream of the Red Chamber (紅樓夢),Cao Xueqin,Chinese,1791,100000000,Family saga,,,,,,Family saga,Adult
+6,The Hobbit,J. R. R. Tolkien,English,1937,100000000,Fantasy, children's fiction,,,,,"Fantasy, children's fiction",Children
+7,Alice's Adventures in Wonderland,Lewis Carroll,English,1865,100000000,Fantasy, absurdist fiction,,,,,"Fantasy, absurdist fiction",Adult
+1,She: A History of Adventure,H. Rider Haggard,English,1887,83000000,Adventure,,,,,,Adventure,Adult
+2,The Da Vinci Code,Dan Brown,English,2003,80000000,Mystery thriller,,,,,,Mystery thriller,Adult
+3,Harry Potter and the Chamber of Secrets,J. K. Rowling,English,1998,77000000,Fantasy, children's fiction,,,,,"Fantasy, children's fiction",Children
+4,The Catcher in the Rye,J. D. Salinger,English,1951,65000000,Coming-of-age,,,,,,Coming-of-age,Adult
+5,The Bridges of Madison County,Robert James Waller,English,1992,60000000,Romance,,,,,,Romance,Adult
+6,One Hundred Years of Solitude (Cien años de soledad),Gabriel García Márquez,Spanish,1967,50000000,Magic realism,,,,,,Magic realism,Adult
+7,Lolita,Vladimir Nabokov,English,1955,50000000,Novel,,,,,,Novel,Adult
+8,Heidi,Johanna Spyri,German,1880,50000000,Children's fiction,,,,,,Children's fiction,Children
+9,The Common Sense Book of Baby and Child Care,Benjamin Spock,English,1946,50000000,Manual,,,,,,Manual,Adult
+10,Anne of Green Gables,Lucy Maud Montgomery,English,1908,50000000,Children's novel,,,,,,Children's novel,Children
+11,Black Beauty,Anna Sewell,English,1877,50000000,Children's literature,,,,,,Children's literature,Children
+12,The Name of the Rose (Il Nome della Rosa),Umberto Eco,Italian,1980,50000000,Historical novel, mystery,,,,,"Historical novel, mystery",Adult
+13,The Eagle Has Landed,Jack Higgins,English,1975,50000000,War, thriller,,,,,"War, thriller",Adult
+14,Watership Down,Richard Adams,English,1972,50000000,Children's fiction,,,,,,Children's fiction,Children
+15,The Hite Report,Shere Hite,English,1976,50000000,nonfiction,,,,,,nonfiction,Adult
+16,Charlotte's Web,E. B. White; illustrated by Garth Williams,English,1952,50000000,Children's fiction,,,,,,Children's fiction,Children
+17,The Ginger Man,J. P. Donleavy,English,1955,50000000,Novel,,,,,,Novel,Adult
+18,The Purpose Driven Life,Rick Warren,English,2002,50000000,Philosophical Manual,,,,,,Philosophical Manual,Adult
+0,The Tale of Peter Rabbit,Beatrix Potter,English,1902,45000000,Children's literature,,,,,,Children's literature,Children
+1,Jonathan Livingston Seagull,Richard Bach,English,1970,44000000,Novella, self-help,,,,,"Novella, self-help",Adult
+2,The Very Hungry Caterpillar,Eric Carle,English,1969,43000000,Children's literature, picture book,,,,,"Children's literature, picture book",Children
+3,A Message to Garcia,Elbert Hubbard,English,1899,40000000,Essay/literature,,,,,,Essay/literature,Adult
+4,To Kill a Mockingbird,Harper Lee,English,1960,40000000,Southern Gothic, Bildungsroman,,,,,"Southern Gothic, Bildungsroman",Adult
+5,Flowers in the Attic,V. C. Andrews,English,1979,40000000,Gothic horror, family saga,,,,,"Gothic horror, family saga",Adult
+6,Cosmos,Carl Sagan,English,1980,40000000,Popular science, anthropology, astrophysics, cosmology, philosophy, history,"Popular science, anthropology, astrophysics, cosmology, philosophy",Adult
+7,Sophie's World (Sofies verden),Jostein Gaarder,Norwegian,1991,40000000,Philosophical novel, Young adult,,,,,"Philosophical novel, Young adult",Young Adult
+8,Angels & Demons,Dan Brown,English,2000,39000000,mystery-thriller,,,,,,mystery-thriller,Adult
+9,Alcoholics Anonymous,William Griffith Wilson,English,1939,37000000,Self-help,,,,,,Self-help,Adult
+10,Kane and Abel,Jeffrey Archer,English,1979,37000000,Novel,,,,,,Novel,Adult
+11,How the Steel Was Tempered (Как закалялась сталь),Nikolai Ostrovsky,Russian,1932,36400000,Socialist realist novel,,,,,,Socialist realist novel,Adult
+12,War and Peace (Война и мир),Leo Tolstoy,Russian,1869,36000000,Historical novel,,,,,,Historical novel,Adult
+13,The Adventures of Pinocchio (Le avventure di Pinocchio),Carlo Collodi,Italian,1881,35000000,Fantasy, children's fiction,,,,,"Fantasy, children's fiction",Children
+14,The Diary of Anne Frank (Het Achterhuis),Anne Frank,Dutch,1947,35000000,Historical non-fiction, autobiography, memoir, bildungsroman / coming of age, Jewish literature,,"Historical non-fiction, autobiography, memoir, bildungsroman / coming of age, Jewish literature",Adult
+15,Your Erroneous Zones,Wayne Dyer,English,1976,35000000,Self-help,,,,,,Self-help,Adult
+16,The Thorn Birds,Colleen McCullough,English,1977,33000000,Romantic family saga,,,,,,Romantic family saga,Adult
+17,The Kite Runner,Khaled Hosseini,English,2003,31500000,Bildungsroman, historical fiction,,,,,"Bildungsroman, historical fiction",Adult
+18,Valley of the Dolls,Jacqueline Susann,English,1966,31000000,Novel,,,,,,Novel,Adult
+19,How to Win Friends and Influence People,Dale Carnegie,English,1936,30000000,Self-help,,,,,,Self-help,Adult
+20,The Great Gatsby,F. Scott Fitzgerald,English,1925,30000000,Novel, tragedy,,,,,"Novel, tragedy",Adult
+21,Gone with the Wind,Margaret Mitchell,English,1936,30000000,Historical fiction,,,,,,Historical fiction,Adult
+22,Rebecca,Daphne du Maurier,English,1938,30000000,Gothic novel,,,,,,Gothic novel,Adult
+23,The Revolt of Mamie Stover,William Bradford Huie,English,1951,30000000,Fiction,,,,,,Fiction,Adult
+24,The Girl with the Dragon Tattoo (Män som hatar kvinnor),Stieg Larsson,Swedish,2005,30000000,Fiction,,,,,,Fiction,Adult
+25,The Lost Symbol,Dan Brown,English,2009,30000000,Fiction,,,,,,Fiction,Adult
+26,The Hunger Games,Suzanne Collins,English,2008,29000000,Young adult fiction,,,,,,Young adult fiction,Young Adult
+27,James and the Giant Peach,Roald Dahl,English,1961,28000000,Children's novel,,,,,,Children's novel,Children
+28,The Young Guard (Молодая гвардия),Alexander Alexandrovich Fadeyev,Russian,1945,26000000,Young adult historical novel,,,,,,Young adult historical novel,Young Adult
+29,Who Moved My Cheese?,Spencer Johnson,English,1998,29000000,Self-help, motivational, business fable, psychology, leadership, parable,"Self-help, motivational, business fable, psychology, leadership",Adult
+30,A Brief History of Time,Stephen Hawking,English,1988,25000000,Popular science,,,,,,Popular science,Adult
+31,Paul et Virginie,Jacques-Henri Bernardin de Saint-Pierre,French,1788,25000000,Novel,,,,,,Novel,Adult
+32,Lust for Life,Irving Stone,English,1934,25000000,Biographical novel,,,,,,Biographical novel,Adult
+33,The Wind in the Willows,Kenneth Grahame,English,1908,25000000,Children's literature,,,,,,Children's literature,Children
+34,The 7 Habits of Highly Effective People,Stephen R. Covey,English,1989,25000000,Self-help,,,,,,Self-help,Adult
+35,Totto-Chan: The Little Girl at the Window (窓ぎわのトットちゃん),Tetsuko Kuroyanagi,Japanese,1981,25000000,Autobiographical novel,,,,,,Autobiographical novel,Adult
+36,Virgin Soil Upturned (Поднятая целина),Mikhail Sholokhov,Russian,1935,24000000,Novel,,,,,,Novel,Adult
+37,The Celestine Prophecy,James Redfield,English,1993,23000000,New-age spiritual novel,,,,,,New-age spiritual novel,Adult
+38,The Fault in Our Stars,John Green,English,2012,23000000,Young adult romantic novel,,,,,,Young adult romantic novel,Young Adult
+39,The Girl on the Train,Paula Hawkins,English,2015,23000000,Thriller,,,,,,Thriller,Adult
+40,The Shack,William P. Young,English,2007,22500000,Novel,,,,,,Novel,Adult
+41,Uncle Styopa (Дядя Стёпа),Sergey Mikhalkov,Russian,1936,21000000,Children's Literature, picture book,,,,,"Children's Literature, picture book",Children
+42,The Godfather,Mario Puzo,English,1969,21000000,Crime novel,,,,,,Crime novel,Adult
+43,Love Story,Erich Segal,English,1970,21000000,Romance novel,,,,,,Romance novel,Adult
+44,Catching Fire,Suzanne Collins,English,2009,21000000,Young adult novel, adventure, dystopian, science fiction,,,"Young adult novel, adventure, dystopian, science fiction",Young Adult
+45,Mockingjay,Suzanne Collins,English,2010,20000000,Young Adult novel, adventure, war, science fiction, action thriller,,"Young Adult novel, adventure, war, science fiction, action thriller",Young Adult
+46,Kitchen (キッチン),Banana Yoshimoto,Japanese,1988,20000000,Japanese novel,,,,,,Japanese novel,Adult
+47,Andromeda Nebula (Туманность Андромеды),Ivan Yefremov,Russian,1957,20000000,Science fiction novel,,,,,,Science fiction novel,Adult
+48,Gone Girl,Gillian Flynn,English,2012,20000000,Crime thriller novel,,,,,,Crime thriller novel,Adult
+49,The Bermuda Triangle,Charles Berlitz,English,1974,20000000,,,,,,,Non-fiction,Adult
+50,Things Fall Apart,Chinua Achebe,English,1958,20000000,Novel,,,,,,Novel,Adult
+51,Wolf Totem (狼图腾),Jiang Rong,Chinese,2004,20000000,Semi-autobiographical novel,,,,,,Semi-autobiographical novel,Adult
+52,The Happy Hooker: My Own Story,Xaviera Hollander,English,1971,20000000,Memoir,,,,,,Memoir,Adult
+53,Jaws,Peter Benchley,English,1974,20000000,Thriller,,,,,,Thriller,Adult
+54,Love You Forever,Robert Munsch,English,1986,20000000,Children's literature, picture book, fiction,,,,"Children's literature, picture book, fiction",Children
+55,The Women's Room,Marilyn French,English,1977,20000000,Feminist novel,,,,,,Feminist novel,Adult
+56,What to Expect When You're Expecting,Arlene Eisenberg and Heidi Murkoff,English,1984,20000000,Pregnancy guide,,,,,,Pregnancy guide,Adult
+57,Adventures of Huckleberry Finn,Mark Twain,English,1885,20000000,Picaresque novel, Bildungsroman, satire, Robinsonade,,,"Picaresque novel, Bildungsroman, satire, Robinsonade",Adult
+59,Pride and Prejudice,Jane Austen,English,1813,20000000,Classic regency novel, romance,,,,,"Classic regency novel, romance",Adult
+60,Kon-Tiki: Across the Pacific in a Raft (Kon-Tiki ekspedisjonen),Thor Heyerdahl,Norwegian,1950,20000000,Travel literature,,,,,,Travel literature,Adult
+61,The Good Soldier Švejk (Osudy dobrého vojáka Švejka za světové války),Jaroslav Hašek,Czech,1923,20000000,Unfinished satirical dark comedy novel,,,,,,Unfinished satirical dark comedy novel,Adult
+62,Where the Wild Things Are,Maurice Sendak,English,1963,20000000,Children's picture book,,,,,,Children's picture book,Children
+63,The Power of Positive Thinking,Norman Vincent Peale,English,1952,20000000,Self-help,,,,,,Self-help,Adult
+64,The Secret,Rhonda Byrne,English,2006,20000000,Self-help,,,,,,Self-help,Adult
+65,Fear of Flying,Erica Jong,English,1973,20000000,Romantic novel,,,,,,Romantic novel,Adult
+66,Dune,Frank Herbert,English,1965,20000000,Science fiction novel,,,,,,Science fiction novel,Adult
+67,Charlie and the Chocolate Factory,Roald Dahl,English,1964,20000000,Children's fantasy novel,,,,,,Children's fantasy novel,Children
+68,The Naked Ape,Desmond Morris,English,1968,20000000,Social Science, Anthropology, Psychology,,,,"Social Science, Anthropology, Psychology",Adult
+69,Kokoro (こゝろ),Natsume Sōseki,Japanese,1914,20000000,Novel,,,,,,Novel,Adult
+0,Where the Crawdads Sing,Delia Owens,English,2018,18000000,Coming-of-age, murder mystery,,,,,"Coming-of-age, murder mystery",Adult
+1,Follow Your Heart (Va' dove ti porta il cuore),Susanna Tamaro,Italian,1994,18000000,Sentimental, epistolary novel,,,,,"Sentimental, epistolary novel",Adult
+2,Matilda,Roald Dahl,English,1988,17000000,Children's literature,,,,,,Children's literature,Children
+3,The Book Thief,Markus Zusak,English,2005,16000000,Young adult fiction,,,,,,Young adult fiction,Young Adult
+4,The Horse Whisperer,Nicholas Evans,English,1995,16000000,,,,,,,novel,Adult
+5,Goodnight Moon,Margaret Wise Brown,English,1947,16000000,Children's literature,,,,,,Children's literature,Children
+6,The Neverending Story (Die unendliche Geschichte),Michael Ende,German,1979,16000000,Children's literature,,,,,,Children's literature,Children
+7,All the Light We Cannot See,Anthony Doerr,English,2014,15300000,Historical fiction, war novel,,,,,"Historical fiction, war novel",Adult
+8,Fifty Shades of Grey,E. L. James,English,2011,15200000,Erotica,,,,,,Erotica,Adult
+9,The Outsiders,S. E. Hinton,English,1967,15000000,,,,,,,coming-of-age,Adult
+10,Guess How Much I Love You,Sam McBratney,English,1994,15000000,,,,,,,Children's fiction,Children
+11,Shōgun,James Clavell,English,1975,15000000,,,,,,,historical fiction,Adult
+12,The Poky Little Puppy,Janette Sebring Lowrey,English,1942,15000000,,,,,,,Children's fiction,Children
+13,The Pillars of the Earth,Ken Follett,English,1989,15000000,Historical fiction,,,,,,Historical fiction,Adult
+14,Perfume (Das Parfum),Patrick Süskind,German,1985,15000000,,,,,,,historical fiction,Adult
+15,The Grapes of Wrath,John Steinbeck,English,1939,15000000,,,,,,,novel,Adult
+16,The Shadow of the Wind (La sombra del viento),Carlos Ruiz Zafón,Spanish,2001,15000000,,,,,,,novel,Adult
+17,Interpreter of Maladies,Jhumpa Lahiri,English,2000,15000000,,,,,,,novel,Adult
+18,Becoming,Michelle Obama,English,2018,14000000,,,,,,,Autobiographical,Adult
+19,The Hitchhiker's Guide to the Galaxy,Douglas Adams,English,1979,14000000,Science fiction,,,,,,Science fiction,Adult
+20,Tuesdays with Morrie,Mitch Albom,English,1997,14000000,,,,,,,Autobiographical,Adult
+21,God's Little Acre,Erskine Caldwell,English,1933,14000000,,,,,,,gothic,Adult
+22,A Wrinkle in Time,Madeleine L'Engle,English,1962,14000000,,,,,,,Science fiction,Adult
+23,Long Walk to Freedom,Nelson Mandela,English,1994,14000000,,,,,,,Autobiographical,Adult
+24,The Old Man and the Sea,Ernest Hemingway,English,1952,13000000,,,,,,,Fiction,Adult
+25,Life After Life,Raymond Moody,English,1975,13000000,,,,,,,Non-fiction,Adult
+26,Momo,Michael Ende,German,1973,13000000,Children's literature,,,,,,Children's literature,Children
+27,Peyton Place,Grace Metalious,English,1956,12100000,,,,,,,novel,Adult
+28,The Giver,Lois Lowry,English,1993,12000000,Dystopian fiction,,,,,,Dystopian fiction,Adult
+29,Me Before You,Jojo Moyes,English,2012,12000000,,,,,,,romance,Adult
+30,Norwegian Wood (ノルウェイの森),Haruki Murakami,Japanese,1987,12000000,,,,,,,novel,Adult
+31,The Plague (La Peste),Albert Camus,French,1947,12000000,,,,,,,novel,Adult
+32,No Longer Human (人間失格),Osamu Dazai,Japanese,1948,12000000,,,,,,,novel,Adult
+33,Man's Search for Meaning (Ein Psychologe erlebt das Konzentrationslager),Viktor Frankl,German,1946,12000000,,,,,,,Autobiographical,Adult
+34,The Divine Comedy (La Divina Commedia),Dante Alighieri,Italian,1304,11500000,,,,,,,poetry,Adult
+35,The Prophet,Kahlil Gibran,English,1923,11000000,,,,,,,poetry,Adult
+36,The Boy in the Striped Pyjamas,John Boyne,English,2006,11000000,,,,,,,historical fiction,Adult
+37,The Exorcist,William Peter Blatty,English,1971,11000000,Horror,,,,,,Horror,Adult
+38,The Gruffalo,Julia Donaldson,English,1999,10500000,Children's literature, picture book,,,,,"Children's literature, picture book",Children
+39,Fifty Shades Darker,E. L. James,English,2012,10400000,Erotica,,,,,,Erotica,Adult
+40,Tobacco Road,Erskine Caldwell,English,1932,10000000,,,,,,,gothic,Adult
+42,The Cat in the Hat,Dr. Seuss,English,1957,10500000,Children's literature, picture book,,,,,"Children's literature, picture book",Children
+43,Diana: Her True Story,Andrew Morton,English,1992,10000000,,,,,,,biographical,Adult
+44,The Help,Kathryn Stockett,English,2009,10000000,,,,,,,historical fiction,Adult
+45,Catch-22,Joseph Heller,English,1961,10000000,,,,,,,novel,Adult
+46,The Stranger (L'Étranger),Albert Camus,French,1942,10000000,,,,,,,philosophical,Adult
+47,Eye of the Needle,Ken Follett,English,1978,10000000,,,,,,,thriller,Adult
+48,The Lovely Bones,Alice Sebold,English,2002,10000000,,,,,,,novel,Adult
+49,Wild Swans,Jung Chang,English,1992,10000000,,,,,,,biographical,Adult
+50,Santa Evita,Tomás Eloy Martínez,Spanish,1995,10000000,,,,,,,novel,Adult
+51,Night (Un di Velt Hot Geshvign),Elie Wiesel,Yiddish,1958,10000000,,,,,,,Autobiographical,Adult
+52,Confucius from the Heart (于丹《论语》心得),Yu Dan,Chinese,2006,10000000,,,,,,,philosophical,Adult
+53,The Total Woman,Marabel Morgan,English,1974,10000000,,,,,,,self-help,Adult
+54,Knowledge-value Revolution (知価革命),Taichi Sakaiya,Japanese,1985,10000000,,,,,,,Non-fiction,Adult
+55,Problems in China's Socialist Economy (中国社会主义经济问题研究),Xue Muqiao,Chinese,1979,10000000,,,,,,,Non-fiction,Adult
+56,What Color Is Your Parachute?,Richard Nelson Bolles,English,1970,10000000,,,,,,,self-help,Adult
+57,The Dukan Diet,Pierre Dukan,French,2000,10000000,,,,,,,Non-fiction,Adult
+58,The Joy of Sex,Alex Comfort,English,1972,10000000,,,,,,,Non-fiction,Adult
+59,The Gospel According to Peanuts,Robert L. Short,English,1965,10000000,,,,,,,comic,Adult
+60,The Subtle Art of Not Giving a Fuck,Mark Manson,English,2016,10000000,,,,,,,self-help,Adult
+61,Life of Pi,Yann Martel,English,2001,10000000,,,,,,,philosophical,Adult
+62,The Front Runner,Patricia Nell Warren,English,1974,10000000,,,,,,,romance,Adult
+63,The Goal,Eliyahu M. Goldratt,English,1984,10000000,,,,,,,novel,Adult
+64,Fahrenheit 451,Ray Bradbury,English,1953,10000000,,,,,,,dystopian,Adult
+65,Angela's Ashes,Frank McCourt,English,1996,10000000,,,,,,,Autobiographical,Adult
+66,The Story of My Experiments with Truth (સત્યના પ્રયોગો અથવા આત્મકથા),Mohandas Karamchand Gandhi,Gujarati,1925,10000000,,,,,,,Autobiographical,Adult
+67,Bridget Jones's Diary,Helen Fielding,English,1996,10000000,,,,,,,novel,Adult
+68,It Ends with Us,Colleen Hoover,English,2016,10000000,Romance, Fiction,,,,,"Romance, Fiction",Adult
+0,"The Lion, the Witch and the Wardrobe",C.S. Lewis,English,1950,85000000,Fantasy, children's fiction,,,,,"Fantasy, children's fiction",Children
+58,"The Secret Diary of Adrian Mole, Aged 13¾",Sue Townsend,English,1982,20000000,Young adult novel,,,,,,Young adult novel,Young Adult
+41,"Ronia, the Robber's Daughter",Astrid Lindgren,Swedish,1981,10000000,,,,,,,Children's fiction,Children
