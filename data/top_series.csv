@@ -1,129 +1,129 @@
-,Book_Series,Author,Original_Language,No_of_Installments,Years_of_Publication,Approximate_Sales,Genre_1,Genre_2,First_Installment_Published,Last_Installment_Published,No_of_Main_Books,No_of_Extras,Extras,All_Genre
-0,Harry Potter,J. K. Rowling,English,7 + 3 companion books + 4 scripts,1997–2007,600000000,,,1997,2007,7,7.0,True,
-1,Goosebumps,R. L. Stine,English,62 + spin-off series,1992–2025,400000000,,,1992,2025,62,,True,
-2,Perry Mason,Erle Stanley Gardner,English,82 + 4 short stories,1933–1973,300000000,,,1933,1973,82,4.0,True,
-3,Diary of a Wimpy Kid,Jeff Kinney,English,19 + 5 spin-offs,2007–2025,290000000,,,2007,2025,19,5.0,True,
-4,Berenstain Bears,Stan and Jan Berenstain,English,428,1962–2025,260000000,,,1962,2025,428,,False,
-5,Choose Your Own Adventure,Various authors,English,185,1979–2025,250000000,,,1979,2025,185,,False,
-6,Sweet Valley High,Francine Pascal and ghostwriters,English,400,1983–2003,250000000,,,1983,2003,400,,False,
-8,Noddy,Enid Blyton,English,24,1949–2025,200000000,,,1949,2025,24,,False,
-9,Nancy Drew,Various authors as Carolyn Keene,English,175,1930–2025,200000000,,,1930,2025,175,,False,
-10,San-Antonio,Frédéric Dard,French,173,1949–2001,200000000,,,1949,2001,173,,False,
-11,Robert Langdon,Dan Brown,English,5,2000–2025,200000000,,,2000,2025,5,,False,
-12,Geronimo Stilton,Elisabetta Dami,Italian,200,1997–2025,180000000,,,1997,2025,200,,False,
-13,Percy Jackson & the Olympians,Rick Riordan,English,7 + 5 companion books + 4 spin-off series,2005–2025,180000000,,,2005,2025,7,9.0,True,
-14,The Baby-sitters Club,Ann Martin,English,335,1986–2025,172000000,,,1986,2025,335,,False,
-15,Twilight,Stephenie Meyer,English,4 + 2 companion books + 1 novella,2005–2020,160000000,,,2005,2020,4,3.0,True,
-16,Star Wars,Various authors,English,300,1977–2025,160000000,,,1977,2025,300,,False,
-17,Little Critter,Mercer Mayer,English,200,1975–2025,150000000,,,1975,2025,200,,False,
-18,Peter Rabbit,Beatrix Potter,English,6,1902–1930,150000000,,,1902,1930,6,,False,
-19,Fifty Shades,E. L. James,English,3,2011–2015,150000000,,,2011,2015,3,,False,
-20,American Girl,Various authors,English,141 + spin-off series,1986–2025,160000000,,,1986,2025,141,,True,
-22,Clifford the Big Red Dog,Norman Bridwell,English,91,1963–2014,129000000,,,1963,2014,91,,False,
-23,Frank Merriwell,Gilbert Patten,English,209,1896–1936,125000000,,,1896,1936,209,,False,
-24,Dirk Pitt,Clive Cussler,English,24,1973–2025,120000000,,,1973,2025,24,,False,
-25,宮本武蔵 (Musashi),Eiji Yoshikawa,Japanese,7,1935–1939,120000000,,,1935,1939,7,,False,
-26,The Chronicles of Narnia,C. S. Lewis,English,7,1950–1956,120000000,,,1950,1956,7,,False,
-28,SAS,Gérard de Villiers,French,200,1965–2013,120000000,,,1965,2013,200,,False,
-29,The Hunger Games,Suzanne Collins,English,4,2008–2025,100000000,,,2008,2025,4,,False,
-30,James Bond,Ian Fleming,English,14,1953–1966,100000000,,,1953,1966,14,,False,
-0,A Song of Ice and Fire,George R. R. Martin,English,5 + 3 novellas + 1 guide,1996–2025,90000000,,,1996,2025,5,4.0,True,
-2,Discworld,Terry Pratchett,English,42,1983–2015,90000000,,,1983,2015,42,,False,
-3,Nijntje (Miffy),Dick Bruna,Dutch,119,1955–2025,85000000,,,1955,2025,119,,False,
-4,Alex Cross,James Patterson,English,21,1993–2025,81000000,,,1993,2025,21,,False,
-5,Anpanman (アンパンマン),Takashi Yanase,Japanese,150 picture books,1973–2013,80000000,,,1973,2013,150,,False,
-6,Captain Underpants,Dav Pilkey,English,12 + spinoffs,1997–2015,80000000,,,1997,2015,12,,True,
-7,Fear Street,R. L. Stine,English,114,1989–2025,80000000,,,1989,2025,114,,False,
-8,Pippi Långstrump (Pippi Longstocking),Astrid Lindgren,Swedish,3 + 3 picture books,1945–2001,80000000,,,1945,2001,3,3.0,True,
-9,The Vampire Chronicles,Anne Rice,English,13,1976–2021,80000000,,,1976,2021,13,,False,
-10,OSS 117,Jean Bruce,French,265,1949–1992,75000000,,,1949,1992,265,,False,
-11,Winnie-the-Pooh,A. A. Milne; illustrated by E. H. Shepard,English,2,1926–1928,70000000,,,1926,1928,2,,False,
-12,Magic Tree House series,Mary Pope Osborne,English,56,1992–2025,70000000,,,1992,2025,56,,False,
-14,A Series of Unfortunate Events,Lemony Snicket aka Daniel Handler,English,13,1999–2006,65000000,,,1999,2006,13,,False,
-15,Little House on the Prairie,Laura Ingalls Wilder,English,12,1932–2006,60000000,,,1932,2006,12,,False,
-17,Jack Reacher,Lee Child,English,29 Novels + 21 Short Stories,1997–2025,60000000,,,1997,2025,29,21.0,True,
-19,Where's Wally?[249],Martin Handford,English,13,1987–2025,55000000,,,1987,2025,13,,False,
-21,The Hardy Boys,Various authors as Franklin W. Dixon,English,190,1927–2025,50000000,,,1927,2025,190,,False,
-22,The Bobbsey Twins,Various authors as Laura Lee Hope,English,72,1904–1979,50000000,,,1904,1979,72,,False,
-23,Tarzan,Edgar Rice Burroughs,English,26,1914–1995,50000000,,,1914,1995,26,,False,
-0,The Shadowhunter Chronicles,Cassandra Clare,English,14 + 8 companion books,2007–2025,50000000,,,2007,2025,14,8.0,True,
-1,Earth's Children,Jean M. Auel,English,6,1980–2011,45000000,,,1980,2011,6,,False,
-2,A Child's First Library of Learning,Various authors,English,29,1980-2025,45000000,,,1980,2025,29,,False,
-3,Junie B. Jones,Barbara Park,English,30,1992–2013,44000000,,,1992,2013,30,,False,
-4,Harry Bosch,Michael Connelly,English,15,1992-2025,42000000,,,1992,2025,15,,False,
-5,Harry Hole,Jo Nesbø,Norwegian,13,1997–2025,40000000,,,1997,2025,13,,False,
-6,Warriors,Erin Hunter,English,78,2003–2025,40000000,,,2003,2025,78,,False,
-7,连环画 铁道游击队 (Picture-and-story book Railway Guerilla),original author: Liu Zhixia [zh],Chinese,10,1955–1962,36520000,,,1955,1962,10,,False,
-8,かいけつゾロリ (Kaiketsu Zorori),Yutaka Hara,Japanese,60,1987–2025,35000000,,,1987,2025,60,,False,
-9,Paddington Bear,Michael Bond,English,70,1958–2025,35000000,,,1958,2025,70,,False,
-10,Animorphs,K A Applegate and ghostwriters,English,54,1996-2001,35000000,,,1996,2001,54,,False,
-11,Divergent trilogy,Veronica Roth,English,3 + 1 companion book,2011–2013,35000000,,,2011,2013,3,1.0,True,
-12,ノンタン (Nontan),Sachiko Kiyono,Japanese,40,1976–2016,33600000,,,1976,2016,40,,False,
-14,The Inheritance Cycle,Christopher Paolini,English,5 + 1 companion book,2002–2023,33000000,,,2002,2023,5,1.0,True,
-16,とある魔術の禁書目録 (Toaru Majutsu no Index),Kazuma Kamachi,Japanese,46,2004-2025,30000000,,,2004,2025,46,,False,
-17,徳川家康 [ja] (Tokugawa Ieyasu),Sōhachi Yamaoka,Japanese,26,1950–1967,30000000,,,1950,1967,26,,False,
-18,Ramona,Beverly Cleary,English,8,1955–1999,30000000,,,1955,1999,8,,False,
-19,The Dark Tower,Stephen King,English,8,1982–2012,30000000,,,1982,2012,8,,False,
-20,Dork Diaries,Rachel Renée Russell,English,15,2009–2018,30000000,,,2009,2018,15,,False,
-1,涼宮ハルヒシリーズ (Haruhi Suzumiya Series),Nagaru Tanigawa,Japanese,11,2003–2025,20000000,,,2003,2025,11,,False,
-3,科学のアルバム (Kagaku no album / Science's Album),Various authors,Japanese,,1970–2025,19000000,,,1970,2025,,,True,
-4,剣客商売 (Kenkaku Shōbai),Shotaro Ikenami,Japanese,18,1972–1989,18000000,,,1972,1989,18,,False,
-5,Erast Fandorin series,Boris Akunin,Russian,12,1998–2025,18000000,,,1998,2025,12,,False,
-6,Dragonriders of Pern,Anne McCaffrey,English,23,1967–2025,18000000,,,1967,2025,23,,False,
-7,吸血鬼ハンターD (Vampire Hunter D),Hideyuki Kikuchi,Japanese,39,1983–2025,17000000,,,1983,2025,39,,False,
-9,ぼくらシリーズ [ja] (Bokura series),Osamu Soda,Japanese,36,1985–2025,15000000,,,1985,2025,36,,False,
-10,Bridget Jones,Helen Fielding,English,3,1996–2025,15000000,,,1996,2025,3,,False,
-11,His Dark Materials,Philip Pullman,English,3,1995–2000,15000000,,,1995,2000,3,,False,
-12,銀河英雄伝説 (Legend of the Galactic Heroes),Yoshiki Tanaka,Japanese,14,1982–1989,15000000,,,1982,1989,14,,False,
-13,The No. 1 Ladies Detective Agency,Alexander McCall Smith,English,23,1999–2025,15000000,,,1999,2025,23,,False,
-14,Der Regenbogenfisch (Rainbow Fish),Marcus Pfister,German,,1992–2025,15000000,,,1992,2025,,,True,
-15,The Riftwar Cycle,Raymond E. Feist,English,25,1982–2025,15000000,,,1982,2025,25,,False,
-16,The Thrawn trilogy,Timothy Zahn,English,3,1991–1993,15000000,,,1991,1993,3,,False,
-17,Wiedźmin (The Witcher),Andrzej Sapkowski,Polish,9,1990–2013,15000000,,,1990,2013,9,,False,
-18,14ひきのシリーズ [ja] (The family of fourteen),Kazuo Iwamura [ja],Japanese,,1983–2025,15000000,,,1983,2025,,,True,
-7,The Railway Series,"Rev. W. Awdry,  Christopher Awdry",English,42,1945–2011,201000000,,,1945,2011,42,,False,
-21,Chicken Soup for the Soul,"Jack Canfield,  Mark Victor Hansen",English,105,1997–2025,130000000,,,1997,2025,105,,False,
-27,Mr. Men,"Roger Hargreaves,  Adam Hargreaves",English,43,1971–2025,120000000,,,1971,2025,43,,False,
-31,Martine,"Gilbert Delahaye,  Marcel Marlier",French,60,1954–2014,100000000,,,1954,2014,60,,False,
-32,Millennium,"Stieg Larsson,  David Lagercrantz",Swedish,6,2005–2025,100000000,,,2005,2025,6,,False,
-1,The Wheel of Time,"Robert Jordan,  Brandon Sanderson",English,15,1990–2013,90000000,,,1990,2013,15,,False,
-13,Left Behind,"Tim LaHaye,  Jerry B. Jenkins",English,16,1996–2007,65000000,,,1996,2007,16,,False,
-16,All Creatures Great and Small,"Alf Wight,  as James Herriot",English,8,1970–1992,60000000,,,1970,1992,8,,False,
-18,The Magic School Bus,"Joanna Cole,  illustrated by Bruce Degen",English,131,1986–2010,58000000,,,1986,2010,131,,False,
-20,Men Are from Mars," Women Are from Venus, John Gray",English,15,1992–2025,50000000,,,1992,2025,15,,False,
-13,グイン・サーガ (Guin Saga),"Kaoru Kurimoto,  Yu Godai",Japanese,149,1979–2024,33000000,,,1979,2024,149,,False,
-21,The Destroyer,"Warren Murphy and Richard Sapir,  various authors",English,150,1971–2025,30000000,,,1971,2025,150,,False,
-15,"Rich Dad,  Poor Dad","Robert Kiyosaki,  Sharon Lechter",English,18,1997-2025,32000000,,,1997,2025,18,,False,
-0,Doc Savage,"Lester Dent,  various authors",English,203,1933–2025,20000000,,,1933,2025,203,,False,
-2,一億人の昭和史 (1-oku nin no Shōwa shi / Shōwa History of 100 million people),"Tomiyasu Takahara,  Various authors",Japanese,95,1975-1980,19000000,,,1975,1980,95,,False,
-8,The Hitchhiker's Guide to the Galaxy,"Douglas Adams,  plus a final book by Eoin Colfer",English,6,1979–2008,16000000,,,1979,2008,6,,False,
-0,地球往事 (Remembrance of Earth's Past),Liu Cixin,Chinese,3,2008–2010,29000000,science fiction,,2008,2010,3,,False,science fiction
-1,三毛猫ホームズシリーズ [ja] (Calico Cat Holmes series),Jirō Akagawa,Japanese,43,1978–2025,28000000,detective, mystery,1978,2025,43,,False,"detective, mystery"
-2,Curious George,Hans Augusto Rey and Margret Rey,English,58,1941–2025,27000000,Children's Literature,,1941,2025,58,,False,Children's Literature
-3,Shannara,Terry Brooks,English,20,1977–2025,26000000,,,1977,2025,20,,False,
-4,Kurt Wallander,Henning Mankell,Swedish,10,1991–2002,25000000,,,1991,2002,10,,False,
-5,Sagan om Isfolket (The Legend of the Ice People),Margit Sandemo,Swedish,47,1982–1989,25000000,,,1982,1989,47,,False,
-6,The Sword of Truth,Terry Goodkind,English,21,1998–2025,25000000,,,1998,2025,21,,False,
-7,Outlander,Diana Gabaldon,English,8,1991–2025,25000000,,,1991,2025,8,,False,
-8,ズッコケ三人組 [ja] (Zukkoke Sanningumi),Masamoto Nasu,Japanese,50,1978–2004,25000000,Children's Literature,,1978,2004,50,,False,Children's Literature
-10,Brain Quest,Various authors,English,,1992–2025,23700000,,,1992,2025,,,True,
-11,South Beach Diet,Arthur Agatston,English,6,2003–2025,22000000,,,2003,2025,6,,False,
-12,ソードアート・オンライン (Sword Art Online),Reki Kawahara,Japanese,27,2009–2025,30000000,,,2009,2025,27,,False,
-13,竜馬がゆく [ja] (Ryoma ga Yuku),Ryōtarō Shiba,Japanese,5,1963–1966,21500000,jidaigeki,,1963,1966,5,,False,jidaigeki
-14,Artemis Fowl,Eoin Colfer,English,8 + 1 companion book,2001–2012,21000000,,,2001,2012,8,1.0,True,
-15,The Cosmere,Brandon Sanderson,English,30,2005–2025,21000000,,,2005,2025,30,,False,
-16,Dune series,Frank Herbert,English,30,1965,20000000,Science fiction novel,,1965,1965,30,,False,Science fiction novel
-17,I Survived,Lauren Tarshis,English,25,2010–2020,20000000,,,2010,2020,25,,False,
-18,Découvertes Gallimard,Various authors,French,700,1986–2025,20000000,,,1986,2025,700,,False,
-19,Redwall,Brian Jacques,English,22,1986–2011,20000000,,,1986,2011,22,,False,
-20,Maisy,Lucy Cousins,English,23,1990–2025,20000000,,,1990,2025,23,,False,
-21,Dragonlance,Various authors,English,150,1984–2025,20000000,,,1984,2025,150,,False,
-22,幻魔大戦 (Genma Taisen),Kazumasa Hirai,Japanese,20,1979–1983,20000000,,,1979,1983,20,,False,
-23,青春の門 (The Gate of Youth),Hiroyuki Itsuki,Japanese,,1970–2025,20000000,,,1970,2025,,,True,
-24,スレイヤーズ (Slayers),Hajime Kanzaka,Japanese,50,1989–2025,20000000,,,1989,2025,50,,False,
-25,The Foundation Trilogy,Isaac Asimov,English,3,1950–1953,20000000,,,1950,1953,3,,False,
-26,Horrible Histories,Terry Deary,English,24,1993–2025,20000000,,,1993,2025,24,,False,
-27,Rainbow Magic,Daisy Meadows,English,80,2003–2025,20000000,,,2003,2025,80,,False,
-28,Morgan Kane,Louis Masterson,Norwegian,90,1966-2025,20000000,,,1966,2025,90,,False,
-29,The Southern Vampire Mysteries,Charlaine Harris,English,13,2001–2013,20000000,,,2001,2013,13,,False,
-9,鬼平犯科帳 (Onihei Hankachō),Shōtarō Ikenami,Japanese,24,1968–1990,24400000,jidaigeki,,1968,1990,24,,False,jidaigeki
+,Book_Series,Author,Original_Language,No_of_Installments,Years_of_Publication,Approximate_Sales,Genre_1,Genre_2,First_Installment_Published,Last_Installment_Published,No_of_Main_Books,No_of_Extras,Extras,All_Genre,Number_of_Years_Publication
+0,Harry Potter,J. K. Rowling,English,7 + 3 companion books + 4 scripts,1997–2007,600000000,,,1997,2007,7,7.0,True,,10
+1,Goosebumps,R. L. Stine,English,62 + spin-off series,1992–2025,400000000,,,1992,2025,62,,True,,33
+2,Perry Mason,Erle Stanley Gardner,English,82 + 4 short stories,1933–1973,300000000,,,1933,1973,82,4.0,True,,40
+3,Diary of a Wimpy Kid,Jeff Kinney,English,19 + 5 spin-offs,2007–2025,290000000,,,2007,2025,19,5.0,True,,18
+4,Berenstain Bears,Stan and Jan Berenstain,English,428,1962–2025,260000000,,,1962,2025,428,,False,,63
+5,Choose Your Own Adventure,Various authors,English,185,1979–2025,250000000,,,1979,2025,185,,False,,46
+6,Sweet Valley High,Francine Pascal and ghostwriters,English,400,1983–2003,250000000,,,1983,2003,400,,False,,20
+8,Noddy,Enid Blyton,English,24,1949–2025,200000000,,,1949,2025,24,,False,,76
+9,Nancy Drew,Various authors as Carolyn Keene,English,175,1930–2025,200000000,,,1930,2025,175,,False,,95
+10,San-Antonio,Frédéric Dard,French,173,1949–2001,200000000,,,1949,2001,173,,False,,52
+11,Robert Langdon,Dan Brown,English,5,2000–2025,200000000,,,2000,2025,5,,False,,25
+12,Geronimo Stilton,Elisabetta Dami,Italian,200,1997–2025,180000000,,,1997,2025,200,,False,,28
+13,Percy Jackson & the Olympians,Rick Riordan,English,7 + 5 companion books + 4 spin-off series,2005–2025,180000000,,,2005,2025,7,9.0,True,,20
+14,The Baby-sitters Club,Ann Martin,English,335,1986–2025,172000000,,,1986,2025,335,,False,,39
+15,Twilight,Stephenie Meyer,English,4 + 2 companion books + 1 novella,2005–2020,160000000,,,2005,2020,4,3.0,True,,15
+16,Star Wars,Various authors,English,300,1977–2025,160000000,,,1977,2025,300,,False,,48
+17,Little Critter,Mercer Mayer,English,200,1975–2025,150000000,,,1975,2025,200,,False,,50
+18,Peter Rabbit,Beatrix Potter,English,6,1902–1930,150000000,,,1902,1930,6,,False,,28
+19,Fifty Shades,E. L. James,English,3,2011–2015,150000000,,,2011,2015,3,,False,,4
+20,American Girl,Various authors,English,141 + spin-off series,1986–2025,160000000,,,1986,2025,141,,True,,39
+22,Clifford the Big Red Dog,Norman Bridwell,English,91,1963–2014,129000000,,,1963,2014,91,,False,,51
+23,Frank Merriwell,Gilbert Patten,English,209,1896–1936,125000000,,,1896,1936,209,,False,,40
+24,Dirk Pitt,Clive Cussler,English,24,1973–2025,120000000,,,1973,2025,24,,False,,52
+25,宮本武蔵 (Musashi),Eiji Yoshikawa,Japanese,7,1935–1939,120000000,,,1935,1939,7,,False,,4
+26,The Chronicles of Narnia,C. S. Lewis,English,7,1950–1956,120000000,,,1950,1956,7,,False,,6
+28,SAS,Gérard de Villiers,French,200,1965–2013,120000000,,,1965,2013,200,,False,,48
+29,The Hunger Games,Suzanne Collins,English,4,2008–2025,100000000,,,2008,2025,4,,False,,17
+30,James Bond,Ian Fleming,English,14,1953–1966,100000000,,,1953,1966,14,,False,,13
+0,A Song of Ice and Fire,George R. R. Martin,English,5 + 3 novellas + 1 guide,1996–2025,90000000,,,1996,2025,5,4.0,True,,29
+2,Discworld,Terry Pratchett,English,42,1983–2015,90000000,,,1983,2015,42,,False,,32
+3,Nijntje (Miffy),Dick Bruna,Dutch,119,1955–2025,85000000,,,1955,2025,119,,False,,70
+4,Alex Cross,James Patterson,English,21,1993–2025,81000000,,,1993,2025,21,,False,,32
+5,Anpanman (アンパンマン),Takashi Yanase,Japanese,150 picture books,1973–2013,80000000,,,1973,2013,150,,False,,40
+6,Captain Underpants,Dav Pilkey,English,12 + spinoffs,1997–2015,80000000,,,1997,2015,12,,True,,18
+7,Fear Street,R. L. Stine,English,114,1989–2025,80000000,,,1989,2025,114,,False,,36
+8,Pippi Långstrump (Pippi Longstocking),Astrid Lindgren,Swedish,3 + 3 picture books,1945–2001,80000000,,,1945,2001,3,3.0,True,,56
+9,The Vampire Chronicles,Anne Rice,English,13,1976–2021,80000000,,,1976,2021,13,,False,,45
+10,OSS 117,Jean Bruce,French,265,1949–1992,75000000,,,1949,1992,265,,False,,43
+11,Winnie-the-Pooh,A. A. Milne; illustrated by E. H. Shepard,English,2,1926–1928,70000000,,,1926,1928,2,,False,,2
+12,Magic Tree House series,Mary Pope Osborne,English,56,1992–2025,70000000,,,1992,2025,56,,False,,33
+14,A Series of Unfortunate Events,Lemony Snicket aka Daniel Handler,English,13,1999–2006,65000000,,,1999,2006,13,,False,,7
+15,Little House on the Prairie,Laura Ingalls Wilder,English,12,1932–2006,60000000,,,1932,2006,12,,False,,74
+17,Jack Reacher,Lee Child,English,29 Novels + 21 Short Stories,1997–2025,60000000,,,1997,2025,29,21.0,True,,28
+19,Where's Wally?[249],Martin Handford,English,13,1987–2025,55000000,,,1987,2025,13,,False,,38
+21,The Hardy Boys,Various authors as Franklin W. Dixon,English,190,1927–2025,50000000,,,1927,2025,190,,False,,98
+22,The Bobbsey Twins,Various authors as Laura Lee Hope,English,72,1904–1979,50000000,,,1904,1979,72,,False,,75
+23,Tarzan,Edgar Rice Burroughs,English,26,1914–1995,50000000,,,1914,1995,26,,False,,81
+0,The Shadowhunter Chronicles,Cassandra Clare,English,14 + 8 companion books,2007–2025,50000000,,,2007,2025,14,8.0,True,,18
+1,Earth's Children,Jean M. Auel,English,6,1980–2011,45000000,,,1980,2011,6,,False,,31
+2,A Child's First Library of Learning,Various authors,English,29,1980-2025,45000000,,,1980,2025,29,,False,,45
+3,Junie B. Jones,Barbara Park,English,30,1992–2013,44000000,,,1992,2013,30,,False,,21
+4,Harry Bosch,Michael Connelly,English,15,1992-2025,42000000,,,1992,2025,15,,False,,33
+5,Harry Hole,Jo Nesbø,Norwegian,13,1997–2025,40000000,,,1997,2025,13,,False,,28
+6,Warriors,Erin Hunter,English,78,2003–2025,40000000,,,2003,2025,78,,False,,22
+7,连环画 铁道游击队 (Picture-and-story book Railway Guerilla),original author: Liu Zhixia [zh],Chinese,10,1955–1962,36520000,,,1955,1962,10,,False,,7
+8,かいけつゾロリ (Kaiketsu Zorori),Yutaka Hara,Japanese,60,1987–2025,35000000,,,1987,2025,60,,False,,38
+9,Paddington Bear,Michael Bond,English,70,1958–2025,35000000,,,1958,2025,70,,False,,67
+10,Animorphs,K A Applegate and ghostwriters,English,54,1996-2001,35000000,,,1996,2001,54,,False,,5
+11,Divergent trilogy,Veronica Roth,English,3 + 1 companion book,2011–2013,35000000,,,2011,2013,3,1.0,True,,2
+12,ノンタン (Nontan),Sachiko Kiyono,Japanese,40,1976–2016,33600000,,,1976,2016,40,,False,,40
+14,The Inheritance Cycle,Christopher Paolini,English,5 + 1 companion book,2002–2023,33000000,,,2002,2023,5,1.0,True,,21
+16,とある魔術の禁書目録 (Toaru Majutsu no Index),Kazuma Kamachi,Japanese,46,2004-2025,30000000,,,2004,2025,46,,False,,21
+17,徳川家康 [ja] (Tokugawa Ieyasu),Sōhachi Yamaoka,Japanese,26,1950–1967,30000000,,,1950,1967,26,,False,,17
+18,Ramona,Beverly Cleary,English,8,1955–1999,30000000,,,1955,1999,8,,False,,44
+19,The Dark Tower,Stephen King,English,8,1982–2012,30000000,,,1982,2012,8,,False,,30
+20,Dork Diaries,Rachel Renée Russell,English,15,2009–2018,30000000,,,2009,2018,15,,False,,9
+1,涼宮ハルヒシリーズ (Haruhi Suzumiya Series),Nagaru Tanigawa,Japanese,11,2003–2025,20000000,,,2003,2025,11,,False,,22
+3,科学のアルバム (Kagaku no album / Science's Album),Various authors,Japanese,,1970–2025,19000000,,,1970,2025,,,True,,55
+4,剣客商売 (Kenkaku Shōbai),Shotaro Ikenami,Japanese,18,1972–1989,18000000,,,1972,1989,18,,False,,17
+5,Erast Fandorin series,Boris Akunin,Russian,12,1998–2025,18000000,,,1998,2025,12,,False,,27
+6,Dragonriders of Pern,Anne McCaffrey,English,23,1967–2025,18000000,,,1967,2025,23,,False,,58
+7,吸血鬼ハンターD (Vampire Hunter D),Hideyuki Kikuchi,Japanese,39,1983–2025,17000000,,,1983,2025,39,,False,,42
+9,ぼくらシリーズ [ja] (Bokura series),Osamu Soda,Japanese,36,1985–2025,15000000,,,1985,2025,36,,False,,40
+10,Bridget Jones,Helen Fielding,English,3,1996–2025,15000000,,,1996,2025,3,,False,,29
+11,His Dark Materials,Philip Pullman,English,3,1995–2000,15000000,,,1995,2000,3,,False,,5
+12,銀河英雄伝説 (Legend of the Galactic Heroes),Yoshiki Tanaka,Japanese,14,1982–1989,15000000,,,1982,1989,14,,False,,7
+13,The No. 1 Ladies Detective Agency,Alexander McCall Smith,English,23,1999–2025,15000000,,,1999,2025,23,,False,,26
+14,Der Regenbogenfisch (Rainbow Fish),Marcus Pfister,German,,1992–2025,15000000,,,1992,2025,,,True,,33
+15,The Riftwar Cycle,Raymond E. Feist,English,25,1982–2025,15000000,,,1982,2025,25,,False,,43
+16,The Thrawn trilogy,Timothy Zahn,English,3,1991–1993,15000000,,,1991,1993,3,,False,,2
+17,Wiedźmin (The Witcher),Andrzej Sapkowski,Polish,9,1990–2013,15000000,,,1990,2013,9,,False,,23
+18,14ひきのシリーズ [ja] (The family of fourteen),Kazuo Iwamura [ja],Japanese,,1983–2025,15000000,,,1983,2025,,,True,,42
+7,The Railway Series,"Rev. W. Awdry,  Christopher Awdry",English,42,1945–2011,201000000,,,1945,2011,42,,False,,66
+21,Chicken Soup for the Soul,"Jack Canfield,  Mark Victor Hansen",English,105,1997–2025,130000000,,,1997,2025,105,,False,,28
+27,Mr. Men,"Roger Hargreaves,  Adam Hargreaves",English,43,1971–2025,120000000,,,1971,2025,43,,False,,54
+31,Martine,"Gilbert Delahaye,  Marcel Marlier",French,60,1954–2014,100000000,,,1954,2014,60,,False,,60
+32,Millennium,"Stieg Larsson,  David Lagercrantz",Swedish,6,2005–2025,100000000,,,2005,2025,6,,False,,20
+1,The Wheel of Time,"Robert Jordan,  Brandon Sanderson",English,15,1990–2013,90000000,,,1990,2013,15,,False,,23
+13,Left Behind,"Tim LaHaye,  Jerry B. Jenkins",English,16,1996–2007,65000000,,,1996,2007,16,,False,,11
+16,All Creatures Great and Small,"Alf Wight,  as James Herriot",English,8,1970–1992,60000000,,,1970,1992,8,,False,,22
+18,The Magic School Bus,"Joanna Cole,  illustrated by Bruce Degen",English,131,1986–2010,58000000,,,1986,2010,131,,False,,24
+20,Men Are from Mars," Women Are from Venus, John Gray",English,15,1992–2025,50000000,,,1992,2025,15,,False,,33
+13,グイン・サーガ (Guin Saga),"Kaoru Kurimoto,  Yu Godai",Japanese,149,1979–2024,33000000,,,1979,2024,149,,False,,45
+21,The Destroyer,"Warren Murphy and Richard Sapir,  various authors",English,150,1971–2025,30000000,,,1971,2025,150,,False,,54
+15,"Rich Dad,  Poor Dad","Robert Kiyosaki,  Sharon Lechter",English,18,1997-2025,32000000,,,1997,2025,18,,False,,28
+0,Doc Savage,"Lester Dent,  various authors",English,203,1933–2025,20000000,,,1933,2025,203,,False,,92
+2,一億人の昭和史 (1-oku nin no Shōwa shi / Shōwa History of 100 million people),"Tomiyasu Takahara,  Various authors",Japanese,95,1975-1980,19000000,,,1975,1980,95,,False,,5
+8,The Hitchhiker's Guide to the Galaxy,"Douglas Adams,  plus a final book by Eoin Colfer",English,6,1979–2008,16000000,,,1979,2008,6,,False,,29
+0,地球往事 (Remembrance of Earth's Past),Liu Cixin,Chinese,3,2008–2010,29000000,science fiction,,2008,2010,3,,False,science fiction,2
+1,三毛猫ホームズシリーズ [ja] (Calico Cat Holmes series),Jirō Akagawa,Japanese,43,1978–2025,28000000,detective, mystery,1978,2025,43,,False,"detective, mystery",47
+2,Curious George,Hans Augusto Rey and Margret Rey,English,58,1941–2025,27000000,Children's Literature,,1941,2025,58,,False,Children's Literature,84
+3,Shannara,Terry Brooks,English,20,1977–2025,26000000,,,1977,2025,20,,False,,48
+4,Kurt Wallander,Henning Mankell,Swedish,10,1991–2002,25000000,,,1991,2002,10,,False,,11
+5,Sagan om Isfolket (The Legend of the Ice People),Margit Sandemo,Swedish,47,1982–1989,25000000,,,1982,1989,47,,False,,7
+6,The Sword of Truth,Terry Goodkind,English,21,1998–2025,25000000,,,1998,2025,21,,False,,27
+7,Outlander,Diana Gabaldon,English,8,1991–2025,25000000,,,1991,2025,8,,False,,34
+8,ズッコケ三人組 [ja] (Zukkoke Sanningumi),Masamoto Nasu,Japanese,50,1978–2004,25000000,Children's Literature,,1978,2004,50,,False,Children's Literature,26
+10,Brain Quest,Various authors,English,,1992–2025,23700000,,,1992,2025,,,True,,33
+11,South Beach Diet,Arthur Agatston,English,6,2003–2025,22000000,,,2003,2025,6,,False,,22
+12,ソードアート・オンライン (Sword Art Online),Reki Kawahara,Japanese,27,2009–2025,30000000,,,2009,2025,27,,False,,16
+13,竜馬がゆく [ja] (Ryoma ga Yuku),Ryōtarō Shiba,Japanese,5,1963–1966,21500000,jidaigeki,,1963,1966,5,,False,jidaigeki,3
+14,Artemis Fowl,Eoin Colfer,English,8 + 1 companion book,2001–2012,21000000,,,2001,2012,8,1.0,True,,11
+15,The Cosmere,Brandon Sanderson,English,30,2005–2025,21000000,,,2005,2025,30,,False,,20
+16,Dune series,Frank Herbert,English,30,1965,20000000,Science fiction novel,,1965,1965,30,,False,Science fiction novel,0
+17,I Survived,Lauren Tarshis,English,25,2010–2020,20000000,,,2010,2020,25,,False,,10
+18,Découvertes Gallimard,Various authors,French,700,1986–2025,20000000,,,1986,2025,700,,False,,39
+19,Redwall,Brian Jacques,English,22,1986–2011,20000000,,,1986,2011,22,,False,,25
+20,Maisy,Lucy Cousins,English,23,1990–2025,20000000,,,1990,2025,23,,False,,35
+21,Dragonlance,Various authors,English,150,1984–2025,20000000,,,1984,2025,150,,False,,41
+22,幻魔大戦 (Genma Taisen),Kazumasa Hirai,Japanese,20,1979–1983,20000000,,,1979,1983,20,,False,,4
+23,青春の門 (The Gate of Youth),Hiroyuki Itsuki,Japanese,,1970–2025,20000000,,,1970,2025,,,True,,55
+24,スレイヤーズ (Slayers),Hajime Kanzaka,Japanese,50,1989–2025,20000000,,,1989,2025,50,,False,,36
+25,The Foundation Trilogy,Isaac Asimov,English,3,1950–1953,20000000,,,1950,1953,3,,False,,3
+26,Horrible Histories,Terry Deary,English,24,1993–2025,20000000,,,1993,2025,24,,False,,32
+27,Rainbow Magic,Daisy Meadows,English,80,2003–2025,20000000,,,2003,2025,80,,False,,22
+28,Morgan Kane,Louis Masterson,Norwegian,90,1966-2025,20000000,,,1966,2025,90,,False,,59
+29,The Southern Vampire Mysteries,Charlaine Harris,English,13,2001–2013,20000000,,,2001,2013,13,,False,,12
+9,鬼平犯科帳 (Onihei Hankachō),Shōtarō Ikenami,Japanese,24,1968–1990,24400000,jidaigeki,,1968,1990,24,,False,jidaigeki,22

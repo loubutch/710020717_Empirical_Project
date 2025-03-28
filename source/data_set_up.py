@@ -287,5 +287,8 @@ df_series['No_of_Extras'] = df_series['No_of_Extras'].map(float)
 df_series["All_Genre"] = df_series[["Genre_1", "Genre_2"]].apply(lambda x: ','.join(x.dropna()), axis=1)
 
 
+## Here I am adding a length of years from first to last installment column
+df_series["Number_of_Years_Publication"] = df_series["Last_Installment_Published"] - df_series["First_Installment_Published"]
+
 ## Here I am saving the cleaned dataset into one csv file
 df_series.to_csv('data/top_series.csv')
