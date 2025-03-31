@@ -169,8 +169,14 @@ df_book['All_Genre'] = np.where((df_book['Book'] == "Fahrenheit 451")
 
 ## Here I am making an age category column
 df_book["Age_Category"] = np.where(df_book['All_Genre'].str.contains("children", case = False), "Children", "Adult" )
-df_book["Age_Category"] = np.where(df_book['All_Genre'].str.contains("Young adult", case = False, na=False), "Young Adult", df_book["Age_Category"])
+df_book["Age_Category"] = np.where(df_book['All_Genre'].str.contains("Young adult", case = False, na=False), "Young Adult", 
+                                   df_book["Age_Category"])
 
+## Here are some additional corrections to the age category
+df_book["Age_Category"] = np.where(df_book['Book'] == "Alice's Adventures in Wonderland", "Children", 
+                                   df_book["Age_Category"])
+df_book["Age_Category"] = np.where(df_book['Book'] == "A Wrinkle in Time", "Young Adult", 
+                                   df_book["Age_Category"])
 
 
 ## Here I am saving the cleaned dataset into one csv file

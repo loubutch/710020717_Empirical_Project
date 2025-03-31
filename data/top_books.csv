@@ -6,7 +6,7 @@
 4,And Then There Were None,Agatha Christie,English,1939,100000000,Mystery,,,,,,Mystery,Adult
 5,Dream of the Red Chamber (紅樓夢),Cao Xueqin,Chinese,1791,100000000,Family saga,,,,,,Family saga,Adult
 6,The Hobbit,J. R. R. Tolkien,English,1937,100000000,Fantasy, children's fiction,,,,,"Fantasy, children's fiction",Children
-7,Alice's Adventures in Wonderland,Lewis Carroll,English,1865,100000000,Fantasy, absurdist fiction,,,,,"Fantasy, absurdist fiction",Adult
+7,Alice's Adventures in Wonderland,Lewis Carroll,English,1865,100000000,Fantasy, absurdist fiction,,,,,"Fantasy, absurdist fiction",Children
 1,She: A History of Adventure,H. Rider Haggard,English,1887,83000000,Adventure,,,,,,Adventure,Adult
 2,The Da Vinci Code,Dan Brown,English,2003,80000000,Mystery thriller,,,,,,Mystery thriller,Adult
 3,Harry Potter and the Chamber of Secrets,J. K. Rowling,English,1998,77000000,Fantasy, children's fiction,,,,,"Fantasy, children's fiction",Children
@@ -116,7 +116,7 @@
 19,The Hitchhiker's Guide to the Galaxy,Douglas Adams,English,1979,14000000,Science fiction,,,,,,Science fiction,Adult
 20,Tuesdays with Morrie,Mitch Albom,English,1997,14000000,,,,,,,Autobiographical,Adult
 21,God's Little Acre,Erskine Caldwell,English,1933,14000000,,,,,,,gothic,Adult
-22,A Wrinkle in Time,Madeleine L'Engle,English,1962,14000000,,,,,,,Science fiction,Adult
+22,A Wrinkle in Time,Madeleine L'Engle,English,1962,14000000,,,,,,,Science fiction,Young Adult
 23,Long Walk to Freedom,Nelson Mandela,English,1994,14000000,,,,,,,Autobiographical,Adult
 24,The Old Man and the Sea,Ernest Hemingway,English,1952,13000000,,,,,,,Fiction,Adult
 25,Life After Life,Raymond Moody,English,1975,13000000,,,,,,,Non-fiction,Adult
