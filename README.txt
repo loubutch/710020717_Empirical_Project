@@ -29,5 +29,26 @@ This repository is structured as follows:
     ├──data_set_up.py
     └──summary_and_visualisations.ipynb
 ├── results/ 
+    ├──book_language_age.png
+    ├──book_language_scatter.png
+    ├──cummulative_sales_plot.png
+    ├──first_to_last_installment_plot.png
+    ├──genre_pie_chart.png
+    ├──interactive_book_language_scatter.html
+    ├──interactive_genre_pie.html
+    ├──number_books_series.png
+    └──sales_per_language.png
+├── blog.txt 
+
+All data is contained in the data sub-directory, all source code is contained
+in source, and all output is automatically exported to results. 
 
 
+## Running Instructions
+
+To replicate the results, set the main 710020717 folder as the working directory.
+(1) Run the webscrape_data.py script within the source folder. This webscrapes the data from the website linked in the introduction. Then the data is saved to data folder.
+(2) Run the data_set_up.py script within the source folder. This cleans and reformats the data created from the webscrape. Then the data is saved to data folder.
+(3) Run the summary_and_visualisations.ipynb Jupiter Notebook. This creates the visualisations used in the blog. These visualisations can be viewed either directly in the notebook or will automatically be saved to the results folder.
+
+The blog post can be accessed using the link within the blog.txt file.
