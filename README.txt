@@ -11,7 +11,6 @@ This project aims to create a blog post based on book statistics found in the da
 ## Repository Overview 
 This repository is structured as follows:
 
-├── README
 ├── data/
     ├──top_books0.csv
     ├──top_books1.csv
@@ -39,6 +38,8 @@ This repository is structured as follows:
     ├──number_books_series.png
     └──sales_per_language.png
 ├── blog.txt 
+├── Makefile
+└── README.txt
 
 All data is contained in the data sub-directory, all source code is contained
 in source, and all output is automatically exported to results. 
@@ -47,8 +48,25 @@ in source, and all output is automatically exported to results.
 ## Running Instructions
 
 To replicate the results, set the main 710020717 folder as the working directory.
+
+It should be sufficient to to type "make" in the command line to run the Makefile.
+
+Alternatively, the below can be run individually:
 (1) Run the webscrape_data.py script within the source folder. This webscrapes the data from the website linked in the introduction. Then the data is saved to data folder.
 (2) Run the data_set_up.py script within the source folder. This cleans and reformats the data created from the webscrape. Then the data is saved to data folder.
 (3) Run the summary_and_visualisations.ipynb Jupiter Notebook. This creates the visualisations used in the blog. These visualisations can be viewed either directly in the notebook or will automatically be saved to the results folder.
 
-The blog post can be accessed using the link within the blog.txt file.
+The blog post and github repository can be accessed using the links within the blog.txt file.
+
+This has been tested using Python 3.9.13 within VSCode via MacOS. 
+Within Python, the following libraries and versions were used:
+> urllib3 2.3.0
+> beautifulsoup4 4.13.3
+> pandas 2.2.3
+> re 2.2.1
+> numpy 2.2.4 (for directly using Jupyter Notebook) and 1.26.4 (for using the Makefile)
+> matplotlib 3.10.1
+> seaborn 0.13.2
+> plotly 6.0.1
+> IPython 9.0.2
+> runpynb 0.3.0
