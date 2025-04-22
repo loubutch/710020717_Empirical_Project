@@ -22,7 +22,7 @@
 13,The Eagle Has Landed,Jack Higgins,English,1975,50000000,War, thriller,,,,,"War, thriller",Adult
 14,Watership Down,Richard Adams,English,1972,50000000,Children's fiction,,,,,,Children's fiction,Children
 15,The Hite Report,Shere Hite,English,1976,50000000,nonfiction,,,,,,nonfiction,Adult
-16,Charlotte's Web,E. B. White; illustrated by Garth Williams,English,1952,50000000,Children's fiction,,,,,,Children's fiction,Children
+16,Charlotte's Web,E. B. White,English,1952,50000000,Children's fiction,,,,,,Children's fiction,Children
 17,The Ginger Man,J. P. Donleavy,English,1955,50000000,Novel,,,,,,Novel,Adult
 18,The Purpose Driven Life,Rick Warren,English,2002,50000000,Philosophical Manual,,,,,,Philosophical Manual,Adult
 0,The Tale of Peter Rabbit,Beatrix Potter,English,1902,45000000,Children's literature,,,,,,Children's literature,Children
@@ -128,32 +128,32 @@
 31,The Plague (La Peste),Albert Camus,French,1947,12000000,,,,,,,novel,Adult
 32,No Longer Human (人間失格),Osamu Dazai,Japanese,1948,12000000,,,,,,,novel,Adult
 33,Man's Search for Meaning (Ein Psychologe erlebt das Konzentrationslager),Viktor Frankl,German,1946,12000000,,,,,,,Autobiographical,Adult
-34,The Divine Comedy (La Divina Commedia),Dante Alighieri,Italian,1304,11500000,,,,,,,poetry,Adult
-35,The Prophet,Kahlil Gibran,English,1923,11000000,,,,,,,poetry,Adult
-36,The Boy in the Striped Pyjamas,John Boyne,English,2006,11000000,,,,,,,historical fiction,Adult
-37,The Exorcist,William Peter Blatty,English,1971,11000000,Horror,,,,,,Horror,Adult
-38,The Gruffalo,Julia Donaldson,English,1999,10500000,Children's literature, picture book,,,,,"Children's literature, picture book",Children
-39,Fifty Shades Darker,E. L. James,English,2012,10400000,Erotica,,,,,,Erotica,Adult
-40,Tobacco Road,Erskine Caldwell,English,1932,10000000,,,,,,,gothic,Adult
-42,The Cat in the Hat,Dr. Seuss,English,1957,10500000,Children's literature, picture book,,,,,"Children's literature, picture book",Children
-43,Diana: Her True Story,Andrew Morton,English,1992,10000000,,,,,,,biographical,Adult
-44,The Help,Kathryn Stockett,English,2009,10000000,,,,,,,historical fiction,Adult
-45,Catch-22,Joseph Heller,English,1961,10000000,,,,,,,novel,Adult
-46,The Stranger (L'Étranger),Albert Camus,French,1942,10000000,,,,,,,philosophical,Adult
-47,Eye of the Needle,Ken Follett,English,1978,10000000,,,,,,,thriller,Adult
-48,The Lovely Bones,Alice Sebold,English,2002,10000000,,,,,,,novel,Adult
-49,Wild Swans,Jung Chang,English,1992,10000000,,,,,,,biographical,Adult
-50,Santa Evita,Tomás Eloy Martínez,Spanish,1995,10000000,,,,,,,novel,Adult
-51,Night (Un di Velt Hot Geshvign),Elie Wiesel,Yiddish,1958,10000000,,,,,,,Autobiographical,Adult
-52,Confucius from the Heart (于丹《论语》心得),Yu Dan,Chinese,2006,10000000,,,,,,,philosophical,Adult
-53,The Total Woman,Marabel Morgan,English,1974,10000000,,,,,,,self-help,Adult
-54,Knowledge-value Revolution (知価革命),Taichi Sakaiya,Japanese,1985,10000000,,,,,,,Non-fiction,Adult
-55,Problems in China's Socialist Economy (中国社会主义经济问题研究),Xue Muqiao,Chinese,1979,10000000,,,,,,,Non-fiction,Adult
-56,What Color Is Your Parachute?,Richard Nelson Bolles,English,1970,10000000,,,,,,,self-help,Adult
-57,The Dukan Diet,Pierre Dukan,French,2000,10000000,,,,,,,Non-fiction,Adult
-58,The Joy of Sex,Alex Comfort,English,1972,10000000,,,,,,,Non-fiction,Adult
-59,The Gospel According to Peanuts,Robert L. Short,English,1965,10000000,,,,,,,comic,Adult
-60,The Subtle Art of Not Giving a Fuck,Mark Manson,English,2016,10000000,,,,,,,self-help,Adult
+34,The Subtle Art of Not Giving a Fuck,Mark Manson,English,2016,12000000,,,,,,,self-help,Adult
+35,The Divine Comedy (La Divina Commedia),Dante Alighieri,Italian,1304,11500000,,,,,,,poetry,Adult
+36,The Prophet,Kahlil Gibran,English,1923,11000000,,,,,,,poetry,Adult
+37,The Boy in the Striped Pyjamas,John Boyne,English,2006,11000000,,,,,,,historical fiction,Adult
+38,The Exorcist,William Peter Blatty,English,1971,11000000,Horror,,,,,,Horror,Adult
+39,The Gruffalo,Julia Donaldson,English,1999,10500000,Children's literature, picture book,,,,,"Children's literature, picture book",Children
+40,Fifty Shades Darker,E. L. James,English,2012,10400000,Erotica,,,,,,Erotica,Adult
+41,Tobacco Road,Erskine Caldwell,English,1932,10000000,,,,,,,gothic,Adult
+43,The Cat in the Hat,Dr. Seuss,English,1957,10500000,Children's literature, picture book,,,,,"Children's literature, picture book",Children
+44,Diana: Her True Story,Andrew Morton,English,1992,10000000,,,,,,,biographical,Adult
+45,The Help,Kathryn Stockett,English,2009,10000000,,,,,,,historical fiction,Adult
+46,Catch-22,Joseph Heller,English,1961,10000000,,,,,,,novel,Adult
+47,The Stranger (L'Étranger),Albert Camus,French,1942,10000000,,,,,,,philosophical,Adult
+48,Eye of the Needle,Ken Follett,English,1978,10000000,,,,,,,thriller,Adult
+49,The Lovely Bones,Alice Sebold,English,2002,10000000,,,,,,,novel,Adult
+50,Wild Swans,Jung Chang,English,1992,10000000,,,,,,,biographical,Adult
+51,Santa Evita,Tomás Eloy Martínez,Spanish,1995,10000000,,,,,,,novel,Adult
+52,Night (Un di Velt Hot Geshvign),Elie Wiesel,Yiddish,1958,10000000,,,,,,,Autobiographical,Adult
+53,Confucius from the Heart (于丹《论语》心得),Yu Dan,Chinese,2006,10000000,,,,,,,philosophical,Adult
+54,The Total Woman,Marabel Morgan,English,1974,10000000,,,,,,,self-help,Adult
+55,Knowledge-value Revolution (知価革命),Taichi Sakaiya,Japanese,1985,10000000,,,,,,,Non-fiction,Adult
+56,Problems in China's Socialist Economy (中国社会主义经济问题研究),Xue Muqiao,Chinese,1979,10000000,,,,,,,Non-fiction,Adult
+57,What Color Is Your Parachute?,Richard Nelson Bolles,English,1970,10000000,,,,,,,self-help,Adult
+58,The Dukan Diet,Pierre Dukan,French,2000,10000000,,,,,,,Non-fiction,Adult
+59,The Joy of Sex,Alex Comfort,English,1972,10000000,,,,,,,Non-fiction,Adult
+60,The Gospel According to Peanuts,Robert L. Short,English,1965,10000000,,,,,,,comic,Adult
 61,Life of Pi,Yann Martel,English,2001,10000000,,,,,,,philosophical,Adult
 62,The Front Runner,Patricia Nell Warren,English,1974,10000000,,,,,,,romance,Adult
 63,The Goal,Eliyahu M. Goldratt,English,1984,10000000,,,,,,,novel,Adult
@@ -164,4 +164,4 @@
 68,It Ends with Us,Colleen Hoover,English,2016,10000000,Romance, Fiction,,,,,"Romance, Fiction",Adult
 0,"The Lion, the Witch and the Wardrobe",C.S. Lewis,English,1950,85000000,Fantasy, children's fiction,,,,,"Fantasy, children's fiction",Children
 58,"The Secret Diary of Adrian Mole, Aged 13¾",Sue Townsend,English,1982,20000000,Young adult novel,,,,,,Young adult novel,Young Adult
-41,"Ronia, the Robber's Daughter",Astrid Lindgren,Swedish,1981,10000000,,,,,,,Children's fiction,Children
+42,"Ronia, the Robber's Daughter",Astrid Lindgren,Swedish,1981,10000000,,,,,,,Children's fiction,Children

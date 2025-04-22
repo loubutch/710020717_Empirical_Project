@@ -26,7 +26,8 @@ This repository is structured as follows:
 ├── source/
     ├──webscrape_data.py
     ├──data_set_up.py
-    └──summary_and_visualisations.ipynb
+    ├──summary_and_visualisations.ipynb
+    └──summary_and_visualisations.pdf
 ├── results/ 
     ├──book_language_age.png
     ├──book_language_scatter.png
@@ -36,7 +37,8 @@ This repository is structured as follows:
     ├──interactive_book_language_scatter.html
     ├──interactive_genre_pie.html
     ├──number_books_series.png
-    └──sales_per_language.png
+    ├──sales_per_language.png
+    └──table_series.csv
 ├── blog.txt 
 ├── Makefile
 └── README.txt
@@ -52,9 +54,13 @@ To replicate the results, set the main 710020717 folder as the working directory
 It should be sufficient to to type "make" in the command line to run the Makefile.
 
 Alternatively, the below can be run individually:
-(1) Run the webscrape_data.py script within the source folder. This webscrapes the data from the website linked in the introduction. Then the data is saved to data folder.
-(2) Run the data_set_up.py script within the source folder. This cleans and reformats the data created from the webscrape. Then the data is saved to data folder.
-(3) Run the summary_and_visualisations.ipynb Jupiter Notebook. This creates the visualisations used in the blog. These visualisations can be viewed either directly in the notebook or will automatically be saved to the results folder.
+(1) Run the webscrape_data.py script within the source folder. This webscrapes the data from the website linked in the introduction. 
+    Then the data is saved to data folder.
+(2) Run the data_set_up.py script within the source folder. This cleans and reformats the data created from the webscrape.
+    Then the data is saved to data folder.
+(3) Run the summary_and_visualisations.ipynb Jupiter Notebook. This creates the visualisations used in the blog. 
+    These visualisations can be viewed either directly in the notebook or will automatically be saved to the results folder.
+    summary_and_visualisations.pdf is a pdf copy incase of any errors.
 
 The blog post and github repository can be accessed using the links within the blog.txt file.
 
