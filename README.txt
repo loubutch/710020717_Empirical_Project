@@ -34,8 +34,6 @@ This repository is structured as follows:
     ├──cummulative_sales_plot.png
     ├──first_to_last_installment_plot.png
     ├──genre_pie_chart.png
-    ├──interactive_book_language_scatter.html
-    ├──interactive_genre_pie.html
     ├──number_books_series.png
     ├──sales_per_language.png
     └──table_series.csv
